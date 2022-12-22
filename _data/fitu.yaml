@@ -1,0 +1,631 @@
+fitus:
+  - title: XXIX FITU Bracara Avgvsta
+    date: 5 e 6 de Abril de 2019
+    awards:
+      - award: Melhor Tuna
+        tuna: Tunadão 1998 - Tuna do IPV
+      - award: Segunda Melhor Tuna
+        tuna: Tuna TS - Tuna de Tecnologia da Saúde do Porto
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Universitária do Instituto Superior Técnico
+      - award: Melhor Instrumental
+        tuna: Tuna Universitária do Instituto Superior Técnico
+      - award: Tuna Mais Tuna
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor Solista
+        tuna: Tuna Universitária do Instituto Superior Técnico
+      - award: Melhor Pandeireta
+        tuna: Tunadão 1998 – Tuna do IPV
+      - award: Melhor Bandeira
+        tuna: Tuna de Medicina do Porto
+      - award: Tuna do Público
+        tuna: Tunadão 1998 - Tuna do IPV
+    img: fitus/fitu29.jpg
+  - title: XXVIII FITU Bracara Avgvsta
+    date: 6 e 7 de Abril de 2018
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Medicina do Porto
+      - award: Segunda Melhor Tuna
+        tuna: anTUNiA - Tuna de Ciências e Tecnologias da Universidade Nova de Lisboa
+      - award: Terceira Melhor Tuna
+        tuna: Desertuna - Tuna Académica da Universidade da Beira Interior
+      - award: Melhor Instrumental
+        tuna: Desertuna - Tuna Académica da Universidade da Beira Interior
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Maastricht (Holanda)
+      - award: Tuna Mais Tuna
+        tuna: Tunídeos - Tuna Masculina da Universidade dos Açores
+      - award: Melhor Solista
+        tuna: TAFDUP - Tuna Académica da Faculdade de Direito do Porto
+      - award: Melhor Pandeireta
+        tuna: Tunídeos - Tuna Masculina da Universidade dos Açores
+      - award: Melhor Bandeira
+        tuna: Tuna de Medicina do Porto
+    img: fitus/cartaz-final28.jpg
+  - title: XXVII FITU Bracara Avgvsta
+    date: 31 de Março e 1 de Abril de 2017
+    awards:
+      - award: Melhor Tuna
+        tuna: anTUNiA - Tuna de Ciências e Tecnologias da Universidade Nova de Lisboa
+      - award: Segunda Melhor Tuna
+        tuna: Tuna de Medicina do Porto
+      - award: Terceira Melhor Tuna
+        tuna: Tunadão 1998 – Tuna do IPV
+      - award: Melhor Instrumental
+        tuna: Tuna Universitária de Aveiro
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Medicina do Porto
+      - award: Tuna Mais Tuna
+        tuna: Tunadão 1998 – Tuna do IPV
+      - award: Melhor Solista
+        tuna: anTUNiA - Tuna de Ciências e Tecnologias da Universidade Nova de Lisboa
+      - award: Melhor Pandeireta
+        tuna: Tunadão 1998 – Tuna do IPV
+      - award: Melhor Bandeira
+        tuna: Tuna de Medicina do Porto
+      - award: Tuna do Público
+        tuna: Tuna de Derecho de Valladolid
+    img: fitus/fitu27.jpg
+  - title: XXVI FITU Bracara Avgvsta
+    date: 20 e 21 de Maio de 2016
+    awards:
+      - award: Melhor Tuna
+        tuna: Tunadão 1998 - Tuna do IPV
+      - award: Segunda Melhor Tuna
+        tuna: Desertuna - Tuna Académica da Universidade da Beira Interior
+      - award: Terceira Melhor Tuna
+        tuna: Tuna de Engenharia da Universidade do Porto
+      - award: Melhor Instrumental
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor “Passa Calles”
+        tuna: Tuna Universitaria UNED de Ponferrada (Espanha)
+      - award: Tuna Mais Tuna
+        tuna: Tunadão 1998 - Tuna do IPV
+      - award: Prémio Ibero-Americano
+        tuna: Tunadão 1998 - Tuna do IPV
+      - award: Melhor Solista
+        tuna: Tuna de la Facultad de Derecho de la UNAM (México)
+      - award: Melhor Pandeireta
+        tuna: Tunadão 1998 - Tuna do IPV
+      - award: Melhor Bandeira
+        tuna: Tunadão 1998 - Tuna do IPV
+    img: fitus/xxvifitu.jpg
+  - title: XXV FITU Bracara Avgvsta
+    date: 1 e 2 de Maio de 2015
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Medicina do Porto
+      - award: Segunda Melhor Tuna
+        tuna: Tuna Universitária de Aveiro
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Académica de Lisboa
+      - award: Melhor Instrumental
+        tuna: TUIST - Tuna Universitária do Instituto Superior Técnico
+      - award: Melhor “Passa Calles”
+        tuna: Tuna da Universidade Católica Portuguesa do Porto
+      - award: Tuna Mais Tuna
+        tuna: Tuna de Medicina da Universidade de Coimbra
+      - award: Tuna do Público
+        tuna: Tuna de Medicina da Universidade de Coimbra
+      - award: Melhor Solista
+        tuna: Tuna Universitária de Aveiro
+      - award: Melhor Pandeireta
+        tuna: Tuna de Medicina da Universidade de Coimbra
+      - award: Melhor Bandeira
+        tuna: Tuna Académica de Lisboa
+    img: fitus/cartaz_xxvfitu.jpg
+  - title: XXIV FITU Bracara Avgvsta
+    date: 11 e 12 de Abril de 2014
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Medicina da Universidade de Coimbra
+      - award: Segunda Melhor Tuna
+        tuna: anTUNiA - Tuna de Ciências e Tecnologias da Universidade Nova de Lisboa
+      - award: Terceira Melhor Tuna
+        tuna: Tunídeos - Tuna Masculina da Universidade dos Açores
+      - award: Melhor Instrumental
+        tuna: anTUNiA - Tuna de Ciências e Tecnologias da Universidade Nova de Lisboa
+      - award: Melhor “Passa Calles”
+        tuna: Tunídeos - Tuna Masculina da Universidade dos Açores
+      - award: Tuna Mais Tuna
+        tuna: Tunídeos - Tuna Masculina da Universidade dos Açores
+      - award: Melhor Solista
+        tuna: Tuna de Medicina de Valencia
+      - award: Melhor Pandeireta
+        tuna: anTUNiA - Tuna de Ciências e Tecnologias da Universidade Nova de Lisboa
+      - award: Melhor Bandeira
+        tuna: Tuna Universitária de Aveiro
+    img: fitus/fitu24.jpg
+  - title: XXIII FITU Bracara Avgvsta
+    date: 19 e 20 de Abril de 2013
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Medicina do Porto
+      - award: Segunda Melhor Tuna
+        tuna: Estudantina Universitária de Coimbra
+      - award: Terceira Melhor Tuna
+        tuna: Tunadão 1998 – Tuna do IPV
+      - award: Melhor Instrumental
+        tuna: Estudantina Universitária de Coimbra
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Medicina de Badajoz
+      - award: Tuna Mais Tuna
+        tuna: Tunadão 1998 – Tuna do IPV
+      - award: Melhor Solista
+        tuna: Tuna Universidade Católica Portuguesa – Porto
+      - award: Melhor Pandeireta
+        tuna: Tunadão 1998 – Tuna do IPV
+      - award: Melhor Bandeira
+        tuna: Tuna de Medicina do Porto
+    img: fitus/fitu.jpg
+  - title: XXII FITU Bracara Avgvsta
+    date: 25 e 26 de Maio de 2012
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna do Instituto Superior Técnico
+      - award: Segunda Melhor Tuna
+        tuna: Tuna de Medicina da Universidade de Coimbra
+      - award: Terceira Melhor Tuna
+        tuna: TunAmérica Universitária de Puerto Rico
+      - award: Melhor Instrumental
+        tuna: TunAmérica Universitária de Puerto Rico
+      - award: Melhor “Passa Calles”
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Tuna Mais Tuna
+        tuna: Tuna de Medicina da Universidade de Coimbra
+      - award: Melhor Solista
+        tuna: Tuna Universitária do Instituto Superior Técnico
+      - award: Melhor Pandeireta
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Melhor Bandeira
+        tuna: Tuna de Medicina da Universidade de Coimbra
+    img: fitus/xxiifitu.jpg
+  - title: XXI FITU Bracara Avgvsta
+    date: 15 e 16 de Abril de 2011
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna Universitária de Aveiro
+      - award: Segunda Melhor Tuna
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Terceira Melhor Tuna
+        tuna: anTUNiA - Tuna de Ciências e Tecnologias da Universidade Nova de Lisboa
+      - award: Melhor Instrumental
+        tuna: Tuna Universitária de Aveiro
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de la Universidad Rey Juan Carlos
+      - award: Tuna Mais Tuna
+        tuna: Transmontuna - Tuna Universitária de Trás-os-Montes e Alto Douro
+      - award: Melhor Solista
+        tuna: Tuna de Derecho de Oviedo
+      - award: Melhor Pandeireta
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Melhor Bandeira
+        tuna: Copituna d’Oppidana – Tuna Académica da Guarda
+    img: fitus/xxifitu.jpg
+  - title: XX FITU Bracara Avgvsta
+    date: 16 e 17 de Abril de 2010
+    awards:
+      - award: Melhor Tuna
+        tuna: TUIST - Tuna Universitária do Instituto Superior Técnico
+      - award: Segunda Melhor Tuna
+        tuna: Estudantina Universitária de Lisboa
+      - award: Terceira Melhor Tuna
+        tuna: Tuna de Medicina da Universidade de Coimbra
+      - award: Melhor Instrumental
+        tuna: TUIST - Tuna Universitária do Instituto Superior Técnico
+      - award: Melhor “Passa Calles”
+        tuna: Tuna da Universidade Católica Portuguesa do Porto
+      - award: Tuna Mais Tuna
+        tuna: Tuna de Medicina da Universidade de Coimbra
+      - award: Melhor Solista
+        tuna: Tuna de Medicina da Universidade de Coimbra
+      - award: Melhor Pandeireta
+        tuna: Tuna da Universidade Católica Portuguesa do Porto
+      - award: Melhor Bandeira
+        tuna: Tuna Universitária de Aveiro
+    img: fitus/cartaz-principal.jpg
+  - title: XIX FITU Bracara Avgvsta
+    date: 1 e 2 de Maio de 2009
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna Universitária de Aveiro
+      - award: Segunda Melhor Tuna
+        tuna: Tuna do Instituto Superior Técnico de Lisboa – TUIST
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Académica de Lisboa
+      - award: Melhor Instrumental
+        tuna: Tuna do Instituto Superior Técnico de Lisboa – TUIST
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Ingenieros Agrónomos y de Montes de Cordoba
+      - award: Tuna Mais Tuna
+        tuna: Transmontuna
+      - award: Melhor Solista
+        tuna: Tuna de Derecho de Oviedo
+      - award: Melhor Pandeireta
+        tuna: Transmontuna
+      - award: Melhor Bandeira
+        tuna: Tuna Académica de Lisboa
+    img: fitus/cartaz-xix-fitu-1.jpg
+  - title: XVIII FITU Bracara Avgvsta
+    date: 2 e 3 de Maio de 2008
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna Académica de Lisboa
+      - award: Segunda Melhor Tuna
+        tuna: Tuna Universitária de Aveiro
+      - award: Terceira Melhor Tuna
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Melhor Instrumental
+        tuna: Tuna Académica de Lisboa
+      - award: Melhor “Passa Calles”
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Tuna Mais Tuna
+        tuna: Tuna do Distrito Universitário do Porto
+      - award: Melhor Solista
+        tuna: Tuna Universitária de Aveiro
+      - award: Melhor Pandeireta
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Melhor Bandeira
+        tuna: Tuna Académica de Lisboa
+    img: fitus/cartaz_18.jpg
+  - title: XVII FITU Bracara Avgvsta
+    date: 4 e 5 de Maio de 2007
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna Académica de Lisboa
+      - award: Segunda Melhor Tuna
+        tuna: Tuna Universitária do Porto
+      - award: Terceira Melhor Tuna
+        tuna: Tuna do Instituto Superior Técnico de Lisboa – TUIST
+      - award: Melhor Instrumental
+        tuna: Tuna Universitária de Aveiro
+      - award: Melhor “Passa Calles”
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Tuna Mais Tuna
+        tuna: Tuna do Instituto Superior Técnico de Lisboa – TUIST
+      - award: Melhor Solista
+        tuna: Tuna Académica de Lisboa
+      - award: Melhor Pandeireta
+        tuna: Tuna do Instituto Superior Técnico de Lisboa – TUIST
+      - award: Melhor Bandeira
+        tuna: Tuna Académica de Lisboa
+    img: fitus/cartaz_fitu_2007.jpg
+  - title: XVI FITU Bracara Avgvsta
+    date: 5 e 6 de Maio de 2006
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna do Instituto Superior Técnico de Lisboa – TUIST
+      - award: Segunda Melhor Tuna
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Universitária de Aveiro
+      - award: Melhor Instrumental
+        tuna: Tuna de Engenharia da Universidade do Porto
+      - award: Melhor “Passa Calles”
+        tuna: Transmontuna
+      - award: Tuna Mais Tuna
+        tuna: Transmontuna
+      - award: Melhor Solista
+        tuna: Tuna Universitária de Aveiro
+      - award: Melhor Pandeireta
+        tuna: Tuna do Instituto Superior Técnico de Lisboa – TUIST
+      - award: Melhor Bandeira
+        tuna: Tuna de Engenharia da Universidade do Porto
+    img: fitus/xvi-fitu-bap.jpg
+  - title: XV FITU Bracara Avgvsta
+    date: 23 de Abril de 2005
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna Universitária de Aveiro
+      - award: Segunda Melhor Tuna
+        tuna: Tuna Académica de Lisboa
+      - award: Terceira Melhor Tuna
+        tuna: Tuna de Bardos de Puerto Rico
+      - award: Melhor Instrumental
+        tuna: Tuna Académica de Lisboa
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Bardos de Puerto Rico
+      - award: Tuna Mais Original
+        tuna: Tuna Académica de Lisboa
+      - award: Melhor Solista
+        tuna: Tuna Académica de Lisboa
+      - award: Melhor Pandeireta
+        tuna: Tuna Universitária de Aveiro
+      - award: Melhor Bandeira
+        tuna: Tuna Universitária de Aveiro
+    img: fitus/xvfitu.jpg
+  - title: XIV FITU Bracara Avgvsta
+    date: 30 de Abril e 1 de Maio de 2004
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna Universitária de Aveiro
+      - award: Segunda Melhor Tuna
+        tuna: Tuna do Instituto Superior Técnico de Lisboa – TUIST
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Académica de Lisboa
+      - award: Melhor Instrumental
+        tuna: Estudantina Universitária de Coimbra
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Derecho de Oviedo
+      - award: Tuna Mais Original
+        tuna: Tuna do Instituto Superior Técnico de Lisboa – TUIST
+      - award: Melhor Solista
+        tuna: Tuna Académica de Lisboa
+      - award: Melhor Pandeireta
+        tuna: Tuna do Instituto Superior Técnico de Lisboa – TUIST
+      - award: Melhor Bandeira
+        tuna: Tuna Universitária de Aveiro
+    img: fitus/14fitu.jpg
+  - title: XIII FITU Bracara Avgvsta
+    date: 2 e 3 de Maio de 2003
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Segunda Melhor Tuna
+        tuna: Tuna Académica de Lisboa
+      - award: Terceira Melhor Tuna
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor Instrumental
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Derecho de Albacete
+      - award: Tuna Mais Original
+        tuna: Tuna de Derecho de Albacete
+      - award: Melhor Solista
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor Pandeireta
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+      - award: Melhor Bandeira
+        tuna: Tuna da Universidade Católica Portuguesa – Porto
+    img: fitus/13fitu.jpg
+  - title: XII FITU Bracara Avgvsta
+    date: 3 e 4 de Maio de 2002
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Segreles
+      - award: Segunda Melhor Tuna
+        tuna: Tuna de Medicina do Porto
+      - award: Terceira Melhor Tuna
+        tuna: Estudantina Univ. de Lisboa
+      - award: Melhor Instrumental
+        tuna: Tuna de Segreles
+      - award: Melhor “Passa Calles”
+        tuna: Tuna Univ. de Ferrol
+      - award: Tuna Mais Original
+        tuna: Tuna de Derecho de Albacete
+      - award: Melhor Solista
+        tuna: Tuna de Segreles
+      - award: Melhor Pandeireta
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor Bandeira
+        tuna: Estudantina Univ. de Lisboa
+    img: fitus/12fitu-1.jpg
+  - title: XI FITU Bracara Avgvsta
+    date: 4 e 5 de Maio de 2001
+    awards:
+      - award: Melhor Tuna
+        tuna: Estudantina Universitária de Lisboa
+      - award: Segunda Melhor Tuna
+        tuna: Tuna de Medicina do Porto
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Universitária de Aveiro
+      - award: Melhor Instrumental
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Direito de Oviedo
+      - award: Tuna Mais Original
+        tuna: Tuna Universitária de Aveiro
+      - award: Melhor Solista
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor Pandeireta
+        tuna: Estudantina Universitária de Lisboa
+      - award: Melhor Bandeira
+        tuna: Estudantina Universitária de Lisboa
+      - award: Tuna Mais Divertida
+        tuna: Tuna Universitária de Ferrol
+    img: fitus/11fitu.jpg
+  - title: X FITU Bracara Avgvsta
+    date: 5 e 6 de Maio de 2000
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna Universitária do Porto
+      - award: Segunda Melhor Tuna
+        tuna: Tuna de Medicina do Porto
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Universitária do IST de Lisboa
+      - award: Melhor Instrumental
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor “Passa Calles”
+        tuna: (Não atribuído)
+      - award: Tuna Mais Original
+        tuna: Tuna Universitária do Porto
+      - award: Melhor Solista
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor Pandeireta
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor Bandeira
+        tuna: Tuna de Direito de Oviedo
+      - award: Melhor Tema Original
+        tuna: (Não atribuído)
+    img: fitus/10fitu.jpg
+  - title: IX FITU Bracara Avgvsta
+    date: 7 e 8 de Maio de 1999
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Medicina do Porto
+      - award: Segunda Melhor Tuna
+        tuna: Magna Tuna Cartola
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Universitária do Distrito de Jaén
+      - award: Melhor Instrumental
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Direito de Oviedo
+      - award: Tuna Mais Original
+        tuna: Magna Tuna Cartola
+      - award: Melhor Solista
+        tuna: Tuna de Medicina do Porto
+      - award: Melhor Pandeireta
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor Bandeira
+        tuna: Estudantina Universitária de Lisboa
+      - award: Melhor Tema Original
+        tuna: Tuna de Direito de Oviedo
+      - award: Melhor Bebedor de Cerveja
+        tuna: Magna Tuna Cartola
+    img: fitus/9fitu.jpg
+  - title: VIII FITU Bracara Avgvsta
+    date: 1 e 2 de Maio de 1998
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Direito de Oviedo
+      - award: Segunda Melhor Tuna
+        tuna: Tuna Univ. do Instituto Superior Técnico
+      - award: Terceira Melhor Tuna
+        tuna: Tuna de Veterinária de Lugo
+      - award: Melhor Instrumental
+        tuna: Estudantina Universitária de Lisboa
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Direito de Oviedo
+      - award: Tuna Mais Original
+        tuna: Tuna Univ. do Instituto Superior Técnico
+      - award: Melhor Solista
+        tuna: Tuna de Medicina de Valência
+      - award: Melhor Pandeireta
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor Bandeira
+        tuna: Tuna de Engenheiros Industriais de Gijon
+      - award: Melhor Tema Original
+        tuna: Tuna de Veterinária de Lugo
+      - award: Melhor Bebedor de Cerveja
+        tuna: Tuna Universitária do IST de Lisboa
+    img: fitus/8fitu.jpg
+  - title: VII FITU Bracara Avgvsta
+    date: 9 e 10 de Maio de 1997
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna Univ. do Instituto Superior Técnico
+      - award: Segunda Melhor Tuna
+        tuna: Tuna de Direito de Oviedo
+      - award: Terceira Melhor Tuna
+        tuna: Estudantina Universitária de Lisboa
+      - award: Melhor Instrumental
+        tuna: Tuna Univ. do Instituto Superior Técnico
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Direito de Oviedo
+      - award: Tuna Mais Original
+        tuna: Tuna Univ. do Instituto Superior Técnico
+      - award: Melhor Solista
+        tuna: Tuna Univ. do Instituto Superior Técnico
+      - award: Melhor Pandeireta
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor Bandeira
+        tuna: Tuna Universitária de Almeria
+      - award: Melhor Tema Original
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+    img: fitus/7fitu.jpg
+  - title: VI FITU Bracara Avgvsta
+    date: 3 e 4 de Maio de 1996
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Segreles de Porto Rico
+      - award: Segunda Melhor Tuna
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Universitária de Almeria
+      - award: Melhor Instrumental
+        tuna: Tuna de Segreles de Porto Rico
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Direito de Oviedo
+      - award: Tuna Mais Original
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor Solista
+        tuna: Tuna de Segreles de Porto Rico
+      - award: Melhor Pandeireta
+        tuna: Tuna de Direito de Oviedo
+      - award: Melhor Bandeira
+        tuna: Tuna Universitária de Almeria
+      - award: Melhor Tema Original
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+    img: fitus/6fitu.jpg
+  - title: V FITU Bracara Avgvsta
+    date: 5 e 6 de Maio de 1995
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Segreles de Porto Rico
+      - award: Segunda Melhor Tuna
+        tuna: Tuna Universitária de Segóvia
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor Instrumental
+        tuna: Tuna Universitária de Segóvia
+      - award: Melhor “Passa Calles”
+        tuna: Tuna Universitária de Almeria
+      - award: Tuna Mais Original
+        tuna: Tuna Universitária do Instituto Superior Técnico
+      - award: Melhor Solista
+        tuna: Tuna de Segreles de Porto Rico
+      - award: Melhor Pandeireta
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor Bandeira
+        tuna: Tuna Universitária de Almeria
+    img: fitus/5fitu.jpg
+  - title: IV FITU Bracara Avgvsta
+    date: 6 e 7 de Maio de 1994
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Medicina de Múrcia
+      - award: Segunda Melhor Tuna
+        tuna: Tuna de Farmácia de Sevilha
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor Instrumental
+        tuna: Tuna de Medicina de Múrcia
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Direito de Salamanca
+      - award: Tuna Mais Original
+        tuna: anTUNiA
+      - award: Melhor Solista
+        tuna: Tuna de Ciências de Granada
+      - award: Melhor Pandeireta
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor Bandeira
+        tuna: Tuna de Farmácia de Sevilha
+    img: fitus/4fitu.jpg
+  - title: III FITU Bracara Avgvsta
+    date: 7 e 8 de Maio de 1993
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Farmácia de Sevilha
+      - award: Segunda Melhor Tuna
+        tuna: Tuna de Direito de Oviedo
+      - award: Terceira Melhor Tuna
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor Interpretação Musical
+        tuna: Tuna de Medicina de Valladolid
+      - award: Melhor “Passa Calles”
+        tuna: Tuna de Direito de Oviedo
+      - award: Tuna Mais Original
+        tuna: Tuna de Direito de Oviedo
+      - award: Melhor Solista
+        tuna: Tuna de Farmácia de Sevilha
+      - award: Melhor Pandeireta
+        tuna: Tuna Académica da Univ. Lusíada do Porto
+      - award: Melhor Bandeira
+        tuna: Tuna de Farmácia de Sevilha
+      - award: Melhor Tema Original
+        tuna: Tuna de Direito de Oviedo
+    img: fitus/3fitu.jpg
+  - title: II FITU Bracara Avgvsta
+    date: 8 e 9 de Maio de 1992
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Ciências de Granada
+    img: fitus/2fitu1.jpg
+  - title: I FITU Bracara Avgvsta
+    date: 10 e 11 de Maio de 1991
+    awards:
+      - award: Melhor Tuna
+        tuna: Tuna de Direito de Málaga
+    img: fitus/1fitu2.jpg

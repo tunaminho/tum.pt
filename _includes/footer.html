@@ -1,0 +1,59 @@
+<footer class="footer">
+    <div class="main-footer">
+        <div class="footer__addr">
+            <div class="footer__logo">
+                <img src="img/brand.png">
+            </div>
+            <br>
+            <div class="address">
+                <div class="footer__addr_inline">
+                    <p>{{site.data.contactos.address}}</p>
+                </div>
+                <div class="footer__addr_inline">
+                    <a href="mailto:{{site.data.contactos.email}}">{{site.data.contactos.email}}</a>
+                    <a class="footer__btn" href="{{site.baseurl}}/contactos">Contacte-nos</a>
+                </div>
+            </div>
+        </div>
+
+        <ul class="footer__nav">
+            {% for link_column in site.data.footer.link_columns %}
+            <li class="nav__item">
+                <h2 class="nav__title">{{ link_column.title }}</h2>
+                <ul class="nav__ul">
+                    {% for link in link_column.links %}
+                    <li>
+                        <a href="{{ link.url }}">
+                            {% if link.icon %}
+                            <i class="fa-brands {{ link.icon }} social-icon"></i>
+                            {% else %}
+                            {{ link.name }}
+                            {% endif %}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% if link_column.subsection %}
+                <h2 class="nav__title">{{ link_column.subsection.title }}</h2>
+                <ul class="nav__ul">
+                    {% for link in link_column.subsection.links %}
+                    <li>
+                        <a href="{{ link.url }}">
+                            {% if link.icon %}
+                            <i class="fa-brands {{ link.icon }} social-icon"></i>
+                            {% else %}
+                            {{ link.name }}
+                            {% endif %}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="footer-bottom-row">
+        <a>Copyright &copy; Tuna Universitária do Minho {{ 'now' | date: "%Y" }}</a>
+    </div>
+</footer>

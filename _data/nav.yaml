@@ -1,0 +1,15 @@
+title: Tuna Universitária do Minho
+logo: img/logo.jpg
+links:
+  - title: Tuna
+    sublinks:
+      - title: Traje e Simbologia
+        url: traje_simbologia
+      - title: Historial e Prémios
+        url: historial_espetaculos
+      - title: Elementos
+        url: elementos
+  - title: FITU Bracara Avgvsta
+    url: fitu
+  - title: Contactos
+    url: contactos

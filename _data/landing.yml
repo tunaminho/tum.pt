@@ -1,0 +1,39 @@
+grid:
+  # Square 1
+  - img: img/landing/casamento.jpg
+    hover_text: Casamentos
+    text_style: "text-align: left;"
+  # Square 2
+  - img: img/landing/serenata.jpg
+    hover_text: Serenatas
+    text_style: "text-align: center;"
+  # Square 3
+  - text: Animamos todo o tipo de eventos com momentos de muita música e boa disposição!
+    text_style: "text-align: right;"
+  # Square 4
+  - img: img/traje/tuno.png
+    hover_text: Traje e Simbologia
+    hover_url: /traje_simbologia
+    text_style: "text-align: left;"
+  # Square 5
+  - img: img/landing/festa.jpg
+    hover_text: Festas e Arraiais
+    text_style: "text-align: center;"
+  # Square 6
+  - img: img/landing/advogados.jpg
+    hover_text: Congressos e Outros Eventos
+    text_style: "text-align: right;"
+  # Square 7
+  - img: img/landing/festa2.jpg
+    hover_text: Festas e Arraiais
+    text_style: "text-align: left;"
+  # Square 8
+  - img: img/landing/boas_vindas.jpg
+    hover_text: Eventos Académicos
+    text_style: "text-align: center;"
+  # Square 9
+  - img: img/traje/caloiro.png
+    hover_text: Traje e Simbologia
+    hover_url: /traje_simbologia
+    text_style: "text-align: right;"
+    style: "transform: scaleX(-1);"

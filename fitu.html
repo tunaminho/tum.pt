@@ -1,0 +1,47 @@
+---
+layout: default
+title: FITU Bracara Avgvsta
+---
+<link href="{{ site.baseurl }}/css/fitu.css" rel="stylesheet">
+<script src="{{ site.baseurl }}/js/modal.js"></script>
+
+<div class="content">
+    <div class="fitu-gallery">
+        {% assign i = 0 %}
+        {% assign n_rows = site.data.fitu.fitus.size | divide_by: 4 %}
+        {% for row in (0..n_rows)%}
+        <div class="fitu-row">
+            {% for fitu in site.data.fitu.fitus limit: 4 offset: continue %}
+            <div class="fitu-column">
+                <img id="fitu-img-{{i}}" src="img/{{ fitu.img }}">
+                <div class="fitu-modal" id="fitu-modal-{{i}}">
+                    <div class="fitu-modal-content">
+                        <div class="fitu-modal-header">
+                            <span class="fitu-title">{{fitu.title}}</span>
+                            <span class="fitu-modal-close" id="fitu-modal-close-{{i}}">&times;</span>
+                        </div>
+                        <div class="fitu-modal-body">
+                            <h4 class="fitu-date">{{fitu.date}}</h4>
+                            <table>
+                                <tbody>
+                                {% for award in fitu.awards%}
+                                <tr class="fitu-award-row">
+                                    <td class="fitu-award-name">{{ award.award }}</td>
+                                    <td class="fitu-award-tuna">{{ award.tuna }}</td>
+                                </tr>
+                                {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <script> modalJs("{{i}}"); </script>
+            </div>
+            {% assign i = i | plus: 1 %}
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<script src="{{ site.baseurl }}/js/modal.js"></script>

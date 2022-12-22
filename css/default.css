@@ -1,0 +1,47 @@
+:root {
+    --main-red: rgb(220, 75, 75);
+    --main-red-p9: rgba(220, 75, 75, .9);
+    --main-red-half: rgba(220, 75, 75, .5);
+    --main-grey: rgb(52, 50, 50);
+    --light-grey: rgb(221, 221, 221);
+    --light-grey-p9: rgba(221, 221, 221, 0.9);
+    --black: rgb(0, 0, 0);
+    --white-p95: rgba(255, 255, 255, 0.95);
+    --milk: #fafafa;
+}
+
+body {
+    font-family: Poppins, serif;
+    width: 100vw;
+    background-color: var(--milk);
+    font-size: 2vh;
+    font-weight: normal;
+    color: black;
+}
+
+body a {
+    color: black;
+    transition-duration: 0.2s;
+}
+
+body a:hover {
+    text-decoration: none;
+    color: var(--main-red);
+}
+
+h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
+    line-height: 1.5;
+    font-weight: 400;
+    color: black;
+}
+
+.content {
+    padding-top: 10vh;
+}
+
+
+@media only screen and (min-width: 800px) {
+    .content {
+        margin-inline: 15vw;
+    }
+}

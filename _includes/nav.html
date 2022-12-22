@@ -1,0 +1,33 @@
+<nav class="navbar navbar-expand-lg navbar-light sticky-top">
+    <a class="navbar-brand" href="/">
+        <img src="img/brand.png">
+    </a>
+    <div class="navbar-toggler-container">
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
+                class="navbar-toggler"
+                data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav navbar-links ml-auto">
+            {% for link in site.data.nav.links %}
+            {% if link.sublinks%}
+            <li class="nav-item navbar-dropdown">
+                <a class="nav-link dropdown-toggle" href="#">{{ link.title }}</a>
+                <div class="dropdown">
+                    {% for sublink in link.sublinks %}
+                    <a class="dropdown-item" href="{{ site.baseurl }}/{{ sublink.url }}">{{ sublink.title }}</a>
+                    {% endfor %}
+                </div>
+            </li>
+            {% else %}
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/{{ link.url }}"> {{ link.title }} </a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</nav>

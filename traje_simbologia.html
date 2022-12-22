@@ -1,0 +1,29 @@
+---
+layout: default
+title: Traje e Simbologia
+---
+<link href="{{ site.baseurl }}/css/symbols.css" rel="stylesheet">
+
+<div class="content">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2>{{ site.data.traje_simbologia.title }}</h2>
+        </div>
+    </div>
+
+    <div class="symbol-list">
+        {% for symbol in site.data.traje_simbologia.symbols %}
+        <div class="row symbol-row">
+            <div class="col-lg-8 symbol-text-col">
+                <h4 class="text-center symbol-title">{{ symbol.title }}</h4>
+                <p class="symbol-text">
+                    {{ symbol.text | markdownify }}
+                </p>
+            </div>
+            <div class="col-sm-4 symbol-img-col">
+                <img class="symbol-img" src="{{ symbol.img }}">
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

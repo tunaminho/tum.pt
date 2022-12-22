@@ -1,0 +1,832 @@
+geracoes:
+  - nome: Fundadores
+    id: 1
+    elementos:
+      - foto: tuninho.jpg
+        alcunha: Samaritana
+        nome: Lúcio
+        curso: Engenharia Mecânica
+        instrumento: Pandeireta
+      - foto: pereira.jpg
+        alcunha: Anjo
+        nome: Paulo Pereira
+        curso: Engenharia Mecânica
+        instrumento: Pandeireta
+      - foto: bitorino.jpg
+        alcunha: Bitorino
+        nome: Vítor Júlio da Silva e Sá
+        curso:
+        instrumento: Bandolim
+      - foto: caldas.jpg
+        alcunha: Caldas
+        nome: Paulo Jorge da Silva Trindade
+        curso: Engenharia Têxtil
+        instrumento: Castanholas
+      - foto: chorao.jpg
+        alcunha: Chorão
+        nome: Rui Filipe Mendonça dos Santos Lucas
+        curso: Química (Controlo de Qualidade)
+        instrumento: Cavaquinho
+      - foto: tuninho.jpg
+        alcunha: Dinis
+        nome: José Dinis de Araújo Carvalho
+        curso: Engenharia de Produção
+        instrumento: Viola
+      - foto: eduardo.jpg
+        alcunha: Adufe
+        nome: Manuel Eduardo Cardoso Ferreira
+        curso: Engenharia Metalomecânica
+        instrumento: Bandolim
+      - foto: matador.jpg
+        alcunha: El Matador
+        nome: António Rui Lourenço Martinho
+        curso: Informática de Gestão
+        instrumento: Viola
+      - foto: espanhol.jpg
+        alcunha: Espanhol
+        nome: Rui Manuel Rodrigues Couto
+        curso: Engenharia de Sistemas
+        instrumento: Cavaquinho
+      - foto: facadas.jpg
+        alcunha: Facadas
+        nome: Luís Pedro Pereira Correia
+        curso:
+        instrumento: Viola
+      - foto: fresco.jpg
+        alcunha: Fresco
+        nome: José Manuel Belo Fresco
+        curso:
+        instrumento: Acordeão
+      - foto: gildo.jpg
+        alcunha: Gildo
+        nome: Hermenegildo Manuel Godinho da Cruz Guimarães
+        curso: Português - Ensino
+        instrumento: Pandeireta
+      - foto: joaozinho.jpg
+        alcunha: Joãozinho
+        nome: João Paulo Marques Tavares Correia
+        curso:
+        instrumento: Viola-Baixo
+      - foto: kiko.jpg
+        alcunha: Cotonete
+        nome: Francisco Xavier Gomes de Oliveira
+        curso: Engenharia Mecânica
+        instrumento: Pandeireta
+      - foto: louro.jpg
+        alcunha: Micro Louro
+        nome: Jorge Filipe Martins de Sousa Louro
+        curso: Engenharia Mecânica
+        instrumento: Bandeira
+      - foto: miguel.jpg
+        alcunha: Miguel
+        nome: José Miguel Braga Vieira
+        curso:
+        instrumento: Pandeireta
+      - foto: zelino.jpg
+        alcunha: Órgão Máximo
+        nome: José Lino Miranda Ribeiro Gomes
+        curso: Relações Internacionais
+        instrumento: Braguesa
+      - foto: paganini.jpg
+        alcunha: Paganini
+        nome: Alexandre Miguel Durão Fernandes
+        curso:
+        instrumento: Violino
+      - foto: raul.jpg
+        alcunha: Raul
+        nome: Raul Manuel Esteves de Sousa Fangueiro
+        curso:
+        instrumento: Bandolim
+      - foto: tuninho.jpg
+        alcunha: Ricardo
+        nome: Ricardo Jorge Alves da Silva
+        curso:
+        instrumento: Vibrofone
+      - foto: santiago.jpg
+        alcunha: Santo
+        nome: João Manuel de Oliveira Santiago
+        curso: Química (Controlo de Qualidade)
+        instrumento: Braguesa
+      - foto: toucas.jpg
+        alcunha: Toucas
+        nome: Filipe Manuel da Costa Martins
+        curso:
+        instrumento: Viola
+      - foto: veloso.jpg
+        alcunha: Veloso
+        nome: Luís Alexandre Machado Veloso Gomes
+        curso: Engenharia Civil
+        instrumento: Bandoloncelo
+      - foto: xicor.jpg
+        alcunha: Xico R.
+        nome: Francisco Miguel da Silva Rocha
+        curso: Engenharia de Sistemas
+        instrumento: Contrabaixo
+      - foto: rola.jpg
+        alcunha: Rola
+        nome: José Augusto C. Ferreira da Cruz
+        curso: Engenharia de Sistemas
+        instrumento: Bandolim
+      - foto: zeto.jpg
+        alcunha: Zé Tó
+        nome: José António Gomes de Araújo
+        curso:
+        instrumento: Bandeira
+  - nome: 2ª Geração - 1991
+    id: 2
+    elementos:
+      - nome: David Moreira
+        foto: brinco.jpg
+        alcunha: Brincolhão
+        curso: Química - Ramo Controlo Qualidade
+        instrumento: Braguesa
+      - foto: lopo.jpg
+        alcunha: Lopo Ferroz
+        nome: Lopo António Araújo Rocha S. de Menezes
+        curso:
+        instrumento: Viola
+  - nome: 3ª Geração - 1992
+    id: 3
+    elementos:
+      - nome: Francisco Barreira
+        foto: tuninho.jpg
+        alcunha: Topas
+        instrumento: Viola
+      - nome: Nuno Lucas
+        foto: radar.jpg
+        alcunha: Radar
+        curso: Engenharia de Sistemas
+        instrumento: Viola
+      - nome: Agostinho
+        foto: pepe.jpg
+        alcunha: Pepe Legal
+        instrumento: Viola
+      - nome: João Paulo da Costa
+        foto: babalu.jpg
+        alcunha: Babalu
+  - nome: 4ª Geração - 1993
+    id: 4
+    elementos:
+      - alcunha: Big Foot
+        nome: Carlos Silva
+        foto: bigfoot.jpg
+        curso: Engenharia Mecânica
+        instrumento: Acordeão
+      - nome: Rodrigo Machado
+        foto: andrade.jpg
+        alcunha: Andrade
+        curso: Engenharia Mecânica
+        instrumento: Viola
+      - foto: besunta.jpg
+        alcunha: Besunta
+        nome: Cláudio Silva
+        instrumento: Acordeão
+        curso: Engenharia Civil
+      - foto: cebola.jpg
+        alcunha: Cebola
+        nome: José Rodrigo Carvalho Faria Lima
+        curso: Engenharia Civil
+        instrumento: Bandolim
+      - foto: clister.jpg
+        alcunha: Clister
+        nome: Filipe Ramalhosa Cunha
+        curso: Relações Internacionais
+        instrumento: Bandolim
+      - foto: dracula.jpg
+        alcunha: Drácula
+        nome: Silvino Jorge de Macedo Dias Rodrigues
+        curso: Engenharia Têxtil
+        instrumento: Cavaquinho
+      - foto: farofias.jpg
+        alcunha: Farófias
+        nome: Luís Miguel Forte Campos Ferreira
+        curso: Engenharia Mecânica
+        instrumento: Viola
+      - foto: rodinhas.jpg
+        alcunha: Rodinhas
+        nome: Eduardo Filipe Campos Mendes Ferreira
+        curso: Administração Pública
+        instrumento: Viola
+  - nome: 5ª Geração - 1994
+    id: 5
+    elementos:
+      - foto: et.jpg
+        alcunha: E.T.
+        nome: Nuno Miguel Afonso Carvalho de Moura
+        curso: Engenharia de Sistemas
+        instrumento: Viola
+      - foto: seco.jpg
+        alcunha: Seco
+        nome: Paulo Jorge da Rocha Soares Antunes
+        curso: Engenharia de Polímeros
+        instrumento: Braguesa
+  - nome: 6ª Geração - 1995
+    id: 6
+    elementos:
+      - foto: brok.jpg
+        alcunha: Bróculo
+        nome: Rui Pedro de Sousa Faria
+        curso: Engenharia de Polímeros
+        instrumento: Bandolim
+      - foto: canario.jpg
+        alcunha: Canário
+        nome: João Ferreira Carvalho Castro Nunes
+        curso: Engenharia de Sistemas
+        instrumento: Viola
+  - nome: 7ª Geração - 1996
+    id: 7
+    elementos:
+      - foto: botas.jpg
+        alcunha: Botinhas
+        nome: Nuno Luís Rego Ribeiro
+        curso: Engenharia Mecânica
+        instrumento: Pandeireta
+      - foto: castrado.jpg
+        alcunha: Castrado
+        nome: Miguel Costa Parente Pires Moreira
+        curso: Gestão de Empresas
+        instrumento: Bandola
+      - foto: Flint.jpg
+        alcunha: Flinstone
+        nome: Nuno Filipe de Moura Rodrigues Ribeiro
+        curso: Engenharia de Polímeros
+        instrumento: Contrabaixo
+      - foto: sobrio.jpg
+        alcunha: Sóbrio
+        nome: Nuno Miguel Freitas Monteiro do Valle Fernandes
+        curso: Gestão de Empresas
+        instrumento: Bandolim
+  - nome: 8ª Geração - 1997
+    id: 8
+    elementos:
+      - foto: 69.jpg
+        alcunha: 69 (Sixty-Nine)
+        nome: Emídio Meireles
+        curso: Relações Internacionais
+        instrumento: Pandeireta
+      - foto: asdrubal.jpg
+        alcunha: Asdrúbal
+        nome: Gonçalo Nuno Trindade Redondo
+        curso: Engenharia Mecânica
+        instrumento: Contrabaixo, Viola
+      - foto: bola.jpg
+        alcunha: Bola
+        nome: António Paulo Magalhães Alves
+        curso: Engenharia de Produção
+        instrumento: Contrabaixo
+      - foto: bufo.jpg
+        alcunha: Bufo
+        nome: José Vítor Lopes F. Cerqueira
+        curso: Engenharia Mecânica
+        instrumento: Bandolim
+      - foto: fritz.jpg
+        alcunha: Fritz
+        nome: Rogério Paulo Pereira Nascimento
+        curso: Optometria e Ciências da Visão
+        instrumento: Bandolim
+      - foto: guterres.jpg
+        alcunha: Guterres
+        nome: Luís Miguel Gonçalves Vilar Afonso
+        curso: Engenharia Electrónica Industrial
+        instrumento: Bandolim
+      - foto: jordan.jpg
+        alcunha: Jordan
+        nome: Eduardo Nuno Xavier Gomes
+        curso: Engenharia Electrónica Industrial
+        instrumento: Viola
+      - foto: passaro.jpg
+        alcunha: Pássaro
+        nome: Pedro Jorge Melo da Silva Vieira
+        curso: Turismo
+        instrumento: Viola
+      - foto: pele.jpg
+        alcunha: Pelé
+        nome: André Maria Leite Mendes de Sousa
+        curso: Engenharia Civil
+        instrumento: Viola
+      - foto: semina.jpg
+        alcunha: Semina
+        nome: Carlos Manuel de Sousa Santos
+        curso: Psicologia
+        instrumento: Bandeira
+      - foto: tampas.jpg
+        alcunha: Tampinhas
+        nome: Nuno Miguel Fernandes Cerqueira
+        curso: Comunicação Social
+        instrumento: Braguesa, Viola
+      - foto: banessa.jpg
+        alcunha: Banessa
+        nome: Luís Miguel Brandão Nogueira
+        curso: Engenharia Civil
+        instrumento: Viola
+  - nome: 9ª Geração - 1998
+    id: 9
+    elementos:
+      - foto: cacioli.jpg
+        alcunha: Caccioli
+        nome: Fernando Mendes
+        curso: Engenharia de Sistemas
+        instrumento: Viola
+      - foto: cunhado2.jpg
+        alcunha: Cunhado
+        nome: André Queirós
+        curso: Optometria e Ciências da Visão
+        instrumento: Cavaquinho
+      - foto: pilas.jpg
+        alcunha: Pilas
+        nome: António Pedro Silva
+        curso: Matemática via ensino
+        instrumento: Viola
+      - foto: fetxa.jpg
+        alcunha: Fetxa-Roda
+        nome: Ricardo
+        curso: Engenharia de Sistemas
+        instrumento: Acordeão
+      - foto: lili.jpg
+        alcunha: Lili
+        nome: Rui Mamede
+        curso: Gestão de empresas
+        instrumento: Pandeireta
+  - nome: 10ª Geração - 1999
+    id: 10
+    elementos:
+      - foto: pelvis.jpg
+        alcunha: Pélvis
+        nome: António José Constantino
+        curso: Psicologia
+        instrumento: Viola
+      - foto: zebedeu.jpg
+        alcunha: Zebedeu
+        nome: Filipe Rocha
+        curso: Português-Francês (Ensino)
+        instrumento: Braguesa
+  - nome: 11ª Geração - 2000
+    id: 11
+    elementos:
+      - foto: tikes.jpg
+        alcunha: Tikes
+        nome: Luís André Rocha
+        curso: Enfermagem
+        instrumento: Viola
+      - foto: magestic.jpg
+        alcunha: Majestic
+        nome: Óscar Cílio Ferreira
+        curso: Gestão de Empresas
+        instrumento: Acordeão
+      - foto: prota.jpg
+        alcunha: Protagonista
+        nome: Luís Monteiro
+        curso: Gestão de Empresas
+        instrumento: Bandolim
+      - foto: peido.jpg
+        alcunha: Peido
+        nome: Nuno Rodrigues
+        curso: Engenharia Civil
+        instrumento: Viola
+  - nome: 12ª Geração - 2001
+    id: 12
+    elementos:
+      - foto: barejona.jpg
+        alcunha: Barejona
+        nome: Simão Silva
+        curso: Psicologia
+        instrumento: Viola
+      - foto: dalton.jpg
+        alcunha: Dalton
+        nome: Paulo Martins
+        curso: Psicologia
+        instrumento: Cavaquinho
+  - nome: 13ª Geração - 2002
+    id: 13
+    elementos:
+      - foto: lulu.jpg
+        alcunha: Lulu
+        nome: Alexandre Passos
+        curso: Português-Francês
+        instrumento: Bandolim
+      - foto: paxa.jpg
+        alcunha: Paxax'algo
+        nome: José Fernandes
+        curso: Engenharia de Sistemas
+        instrumento: Pandeireta
+      - foto: esclarecido.jpg
+        alcunha: Esclarecido
+        nome: Nuno Pinto
+        curso: Gestão
+        instrumento: Contrabaixo
+  - nome: 14ª Geração - 2003
+    id: 14
+    elementos:
+      - foto: reizinho.jpg
+        alcunha: Reizinho
+        nome: Filipe Costa
+        curso: Engenharia Civil
+        instrumento: Guitarra
+  - nome: 15ª Geração - 2004
+    id: 15
+    elementos:
+      - foto: kuaresma.jpg
+        alcunha: Kuaresma
+        nome: Alexandre Lopes
+        curso: Engenharia Civil
+        instrumento: Pandeireta
+      - foto: gandhi.jpg
+        alcunha: Gandhi
+        nome: Pedro Miguel Antunes de Oliveira
+        curso: Geografia e Planeamento
+        instrumento: Pandeireta
+      - foto: priudo.jpg
+        alcunha: Príudo
+        nome: Álvaro Borges
+        curso: Optometria e Ciências da Visão
+        instrumento: Acordeão
+      - foto: gracinda.jpg
+        alcunha: Gracinda
+        nome: Leandro Barbosa Ferreira
+        curso: Geografia e Planeamento
+        instrumento: Guitarra
+  - nome: 16ª Geração - 2005
+    id: 16
+    elementos:
+      - foto: visconde.jpg
+        alcunha: Visconde
+        nome: António Pedro Sousa
+        curso: Engenharia de Sistemas
+        instrumento: Bandolim
+      - foto: gulliver.jpg
+        alcunha: Gulliver
+        nome: Rui Martins
+        curso: Engenharia Electrónica
+        instrumento: Guitarra, Braguesa
+      - foto: shaggy.jpg
+        alcunha: Shaggy
+        nome: Nuno Moreira
+        curso: Electrónica Industrial
+        instrumento: Acordeão
+      - foto: xamuca.jpg
+        alcunha: Xamuça
+        nome: Pedro Guerra
+        curso: Engenharia Civil
+        instrumento: Violino
+      - foto: toite.jpg
+        alcunha: Toité
+        nome: Ricardo Mota
+        curso: Engenharia Mecânica
+        instrumento: Cavaquinho
+      - foto: latoya.jpg
+        alcunha: Latoya
+        nome: Nuno Freire
+        curso: Arquitectura
+        instrumento: Guitarra
+      - foto: tom.jpg
+        alcunha: Tom Sawyer
+        nome: João Oliveira
+        curso: Engenharia de Comunicações
+        instrumento: Guitarra
+      - foto: amora.jpg
+        alcunha: Amora
+        nome: Bruno Lages
+        curso: Biologia Aplicada
+        instrumento: Viola de Arco
+      - foto: kaga.jpg
+        alcunha: Caga
+        nome: Hélder Dias
+        curso: Informática de Gestão
+        instrumento: Bandolim
+      - foto: tuninho.jpg
+        alcunha: Nem por isso
+        nome: Luís Filipe
+        curso: Engenharia Civil
+        instrumento: Cavaquinho
+  - nome: 17ª Geração - 2006
+    id: 17
+    elementos:
+      - foto: nilton.jpg
+        alcunha: Nilton
+        nome: Almerindo Vieira
+        curso: Optometria e Ciências da Visão
+        instrumento: Guitarra, Bandolim
+      - foto: troce.jpg
+        alcunha: Destroce
+        nome: Francisco Cunha
+        curso: Ciências da Computação
+        instrumento: Pandeireta
+      - foto: tropa.jpg
+        alcunha: Tropa
+        nome: Amândio Silva
+        curso: Electrónica Industrial
+        instrumento: Pandeireta
+  - nome: 18ª Geração - 2007
+    id: 18
+    elementos:
+      - foto: dadinho.jpg
+        alcunha: Dadinho
+        nome: Eduardo Teixeira
+        curso: Engenharia de Sistemas
+        instrumento: Cavaquinho
+      - foto: preta.jpg
+        alcunha: Preta
+        nome: Ricardo Agra
+        curso: Engenharia de Sistemas
+        instrumento: Pandeireta
+      - foto: cabra.jpg
+        alcunha: Cabra
+        nome: Sérgio Brito
+        curso: Informática de Gestão
+        instrumento: Viola
+      - foto: telha.jpg
+        alcunha: Telha
+        nome: Guilherme Barbosa
+        curso: Engenharia de Sistemas
+        instrumento: Contrabaixo
+  - nome: 19ª Geração - 2008
+    id: 19
+    elementos:
+      - foto: parvas.jpg
+        alcunha: Parvalhoti
+        nome: Diogo Mota
+        curso: Engenharia de Sistemas
+        instrumento: Acordeão
+      - foto: smeagol.jpg
+        alcunha: Smeagol
+        nome: Jorge Russo
+        curso: Engenharia de Sistemas
+        instrumento: Bandeira
+      - foto: gps.jpg
+        alcunha: GPS
+        nome: Tiago Taxa
+        curso: Psicologia
+        instrumento: Bandolim
+      - foto: masgajas.jpg
+        alcunha: Masgajas
+        nome: Nuno Lima
+        curso: Engenharia Biomédica
+        instrumento: Guitarra
+      - foto: tiopaulo.jpg
+        alcunha: Tio Paulo
+        nome: Tiago Salgado
+        curso: Administração Pública
+        instrumento: Bandeira
+  - nome: 20ª Geração - 2009
+    id: 20
+    elementos:
+      - foto: pibeas.jpg
+        alcunha: Pibeas
+        nome: Mário Gomes
+        curso: Matemática e Ciências da Computação
+        instrumento: Trombone
+      - foto: mosto.jpg
+        alcunha: Mosto
+        nome: Leandro Cepa
+        curso: Engenharia Biológica
+        instrumento: Guitarra, Pandeireta
+      - foto: catarina.jpg
+        alcunha: Catarina
+        nome: João Matos
+        curso: Engenharia Informática
+        instrumento: Bandolim
+  - nome: 21ª Geração - 2010
+    id: 21
+    elementos:
+      - foto: disketeu.jpg
+        alcunha: Disketeu
+        nome: Rafael Pinto
+        curso: Engenharia Informática
+        instrumento: Pandeireta
+      - foto: gargas.jpg
+        alcunha: Gargas
+        nome: Bruno Azevedo
+        curso: Engenharia Informática
+        instrumento: Acordeão, Trompete
+      - foto: xiclas.jpg
+        alcunha: Jantares
+        nome: Rui Vieira
+        curso: Tecnologias e Sistemas de Informação
+        instrumento: Bandolim
+  - nome: 22ª Geração - 2011
+    id: 22
+    elementos:
+      - foto: bisonte.jpg
+        alcunha: Bisonte
+        nome: Diogo Leite
+        curso: Biologia Aplicada, Direito
+        instrumento: Guitarra
+      - foto: gago.jpg
+        alcunha: Gago
+        nome: Fábio Ramalho
+        curso: Bioquímica
+        instrumento: Acordeão
+      - foto: 50cent.jpg
+        alcunha: 50 Cent
+        nome: Vítor Costa
+        curso: Engenharia Informática
+        instrumento: Guitarra, Flauta
+      - foto: travolta.jpg
+        alcunha: Travolta
+        nome: Fábio Pinto
+        curso: Optometria
+        instrumento: Bandeira
+  - nome: 23ª Geração - 2012
+    id: 23
+    elementos:
+      - foto: capela.jpg
+        alcunha: Capela
+        nome: José Gomes
+        curso: Bioquímica
+        instrumento: Bandolim
+      - foto: fura.jpg
+        alcunha: Fura
+        nome: Carlos Pereira
+        curso: Engenharia Biomédica
+        instrumento: Guitarra
+  - nome: 24ª Geração - 2013
+    id: 24
+    elementos:
+      - foto: emocionado.jpg
+        alcunha: Emocionado
+        nome: Jorge Correia
+        curso: Psicologia
+        instrumento: Braguesa
+      - foto: sheamus.jpg
+        alcunha: Sheamus
+        nome: David de Brito
+        curso: Marketing
+        instrumento: Contrabaixo
+      - foto: mou.jpg
+        alcunha: Mou
+        nome: João Barbosa
+        curso: Engenharia Electrónica
+        instrumento: Guitarra
+      - foto: bitoques.jpg
+        alcunha: Bitoques
+        nome: João Cardoso
+        curso: Biologia Aplicada
+        instrumento: Bandolim
+      - foto: ceguinho.jpg
+        alcunha: Ceguinho
+        nome: Telmo Sousa
+        curso: Música
+        instrumento: Guitarra, Trompete
+  - nome: 25ª Geração - 2014
+    id: 25
+    elementos:
+      - foto: expulso.jpg
+        alcunha: Expulso
+        nome: Hugo Vaz
+        curso: Filosofia
+        instrumento: Bandeira
+      - foto: siestas.jpg
+        alcunha: Siestas
+        nome: André Pepe
+        curso: Engenharia Mecânica
+        instrumento: Guitarra
+      - foto: cagamelo.jpg
+        alcunha: Cagamelo
+        nome: Rui Guimarães
+        curso: Física
+        instrumento: Contrabaixo
+      - foto: egas.jpg
+        alcunha: Egas
+        nome: João Costa
+        curso: Medicina
+        instrumento: Guitarra
+      - foto: becas.jpg
+        alcunha: Becas
+        nome: João Costa
+        curso: Engenharia Civil
+        instrumento: Bandolim, Guitarra
+      - foto: wally.jpg
+        alcunha: Wally
+        nome: Rui Afonso
+        curso: Música
+        instrumento: Percussão
+  - nome: 26ª Geração - 2015
+    id: 26
+    elementos:
+      - foto: chicha.jpg
+        alcunha: Chicha
+        nome: Miguel Ferreira
+        curso: Música
+        instrumento: Clarinete
+      - foto: tixa.jpg
+        alcunha: Tixa
+        nome: Daniel Cerqueira
+        curso: Bioquímica
+        instrumento: Pandeireta
+      - foto: loreal.jpg
+        alcunha: Loreal
+        nome: Daniel Carvalho
+        curso: Engenharia Informática
+        instrumento: Bandolim
+      - foto: balhulha.jpg
+        alcunha: Balhulha
+        nome: Luis Chaves
+        curso: Música
+        instrumento: Cavaquinho, Bombardino
+      - foto: borrinhas.jpg
+        alcunha: Borrinhas
+        nome: João Sequeira
+        curso: Bioquímica
+        instrumento: Violino
+  - nome: 27ª Geração - 2016
+    id: 27
+    elementos:
+      - foto: vandamme.jpg
+        alcunha: VanDamme
+        nome: Pedro Duarte
+        curso: Engenharia Informática
+        instrumento: Pandeireta
+      - foto: paodelov.jpg
+        alcunha: Pãode Lov
+        nome: Ivan Gomes
+        curso: Biologia Aplicada
+        instrumento: Braguesa
+      - foto: benigni.jpg
+        alcunha: Benigni
+        nome: Alexandre Ramos
+        curso: MIEGSI
+        instrumento: Guitarra
+      - foto: cuequinha.jpg
+        alcunha: Cuequinha
+        nome: Pedro Matos
+        curso: Música
+        instrumento: Pandeireta, Trombone
+      - foto: pelim.jpg
+        alcunha: Pelim
+        nome: Rui Brito
+        curso: Engenharia Informática
+        instrumento: Bandolim
+      - foto: critico.jpg
+        alcunha: Crítico
+        nome: André Vieira
+        curso: Optometria e Ciências da Visão
+        instrumento: Guitarra
+  - nome: 28ª Geração - 2017
+    id: 28
+    elementos:
+      - alcunha: Mofos
+        nome: Rui Oliveira
+        foto: mofos.png
+        curso: Engenharia Industrial
+        instrumento: Bandolim, Contrabaixo
+      - alcunha: MaisValia
+        nome: Daniel Domingues
+        foto: maisvalia.png
+        curso: Design do Produto
+        instrumento: Estandarte
+  - nome: 29ª Geração - 2018
+    id: 29
+    elementos:
+      - alcunha: Miadas
+        nome: Gonçalo Camaz
+        foto: miadas.jpg
+        curso: Engenharia Informática
+        instrumento: Acordeão, Saxofone
+      - alcunha: Botafogo
+        nome: José Alves
+        foto: botafogo.png
+        curso: Engenharia Biológica
+        instrumento: Acordeão
+      - alcunha: Vizinho
+        nome: Rui Teixeira
+        foto: vizinho.png
+        curso: Psicologia
+        instrumento: Bandolim
+      - alcunha: Nelce
+        nome: Pedro Saldarriaga
+        foto: nelce.jpg
+        curso: Biologia e Geologia
+        instrumento: Bandolim
+      - alcunha: Ziamantino
+        nome: Miguel Magalhães
+        foto: ziamantino.png
+        curso: Engenharia Informática
+        instrumento: Cavaquinho
+      - alcunha: Cabecinhas
+        nome: José Medeiros
+        foto: cabecinhas.png
+        curso: Engenharia Mecânica
+        instrumento: Guitarra
+  - nome: 30ª Geração - 2019
+    id: 30
+    elementos:
+      - alcunha: Sentinela
+        nome: Pedro Pinto
+        foto: sentinela.jpg
+        curso: Engenharia Informática
+        instrumento: Pandeireta
+      - alcunha: Parcido
+        nome: Henrique Pereira
+        foto: parcido.jpg
+        curso: Engenharia Informática
+        instrumento: Braguesa
+      - alcunha: Tojos
+        nome: Guilherme Guerreiro
+        foto: tojos.jpg
+        curso: Engenharia Informática
+        instrumento: Cavaquinho
+      - alcunha: Calcetas
+        nome: José Bastos
+        foto: calcetas.png
+        curso: Engenharia Informática
+        instrumento: Percussão, Trompete

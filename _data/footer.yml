@@ -1,0 +1,41 @@
+link_columns:
+  - title: Tuna Universitária do Minho
+    subsection:
+      title: Redes Sociais
+      links:
+        - name: Facebook
+          icon: fa-facebook-f
+          url: https://www.facebook.com/tunauniversitariaminho
+        - name: Instagram
+          icon: fa-instagram
+          url: https://www.instagram.com/tunauniversitariadominho/
+        - name: YouTube
+          icon: fa-youtube
+          url: https://www.youtube.com/channel/UClj56MMgzqLuCQSa4Ege6nQ
+        - name: Discord
+          icon: fa-discord
+          url: http://discord.tum.pt/
+        - name: Spotify
+          icon: fa-spotify
+          url: https://open.spotify.com/artist/7nEqs0isAyEONxQbPrVRgb
+    links:
+      - name: FITU Bracara Avgvsta
+        url: https://fitu.pt
+      - name: ARCUM
+        url: http://www.arcum.pt
+  - title: Academia
+    links:
+      - name: Associação Académica da Universidade do Minho
+        url: https://www.aaum.pt/
+      - name: Universidade do Minho
+        url: https://www.uminho.pt/
+      - name: Serviços Académicos da Universidade do Minho
+        url: http://www.sas.uminho.pt/
+  - title: Parceiros
+    links:
+      - name: Câmara Municipal de Braga
+        url: https://www.cm-braga.pt/
+      - name: Junta de Freguesia de São Victor
+        url: https://www.juntasvictor.pt/
+      - name: Instituto Português do Desporto e Juventude
+        url: https://ipdj.gov.pt/

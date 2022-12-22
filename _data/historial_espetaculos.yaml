@@ -1,0 +1,530 @@
+# Tentar colocar imagens 16:9
+title: Historial e Espetáculos
+events:
+  - year: "2018"
+    img: img/historial/chile_2018.jpg
+    title: DIGRESSÃO AO CHILE
+    tags: tours
+    text: Digressão ao Chile.
+  - year: "2018"
+    img: img/historial/lux_2018.jpg
+    title: DIGRESSÃO AO LUXEMBURGO
+    tags: tours
+    text: Digressão ao Luxemburgo.
+  - year: "2017"
+    img: img/historial/2017_acores.jpg
+    title: ESPETÁCULOS EM 2017
+    tags: shows
+    shows:
+      - show: XVIII El Açor – Festival Internacional de Tunas
+        awards: Melhor Estandarte e Melhor Tuna
+      - show: XVII Lethes – Festival de Tunas Cidade de Viana do Castelo
+        awards: Melhor Pandeireta e Tuna mais Bebedoura
+      - show: XXVII FITUA – Festival Internacional de Tunas da Universidade de Aveiro
+        awards: Tuna Mais Tuna
+  - year: "2016"
+    img: img/historial/2016_serenatas_fitu.jpg
+    title: ESPETÁCULOS EM 2016
+    tags: shows
+    shows:
+      - show: III Noites de Ronda
+        awards: Tuna Mais Tuna e Melhor Tuna
+      - show: XXIV Tágides – Festival Internacional de Tunas Universitárias
+        awards: Tuna Mais Tuna, Melhor Instrumental e Melhor Porta-Estandarte
+      - show: XVI Lethes – Festival De Tunas Cidade De Viana Do Castelo
+        awards: Tuna Mais Tuna
+      - show: XXVI FITUA – Festival Internacional de Tunas da Universidade de Aveiro
+        awards: Tuna Mais Tuna, Tuna Mais Bebedoura, Melhor Estandarte, Melhor Instrumental e Melhor Tuna
+      - show: 12.º CITADÃO – Certame Internacional de Tunas Académicas do Dão
+        awards: Melhor Pandeireta, Melhor Pasacalles e Melhor Serenata
+      - show: III Trovador – Festival Internacional de Tunas da FAN-Farra Académica de Coimbra
+        awards: Melhor Serenata, Melhor Porta-Estandarte, Melhor Instrumental, Melhor Original e Melhor Tuna
+  - year: "2015"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 2015
+    tags: shows
+    shows:
+      - show: XXV FITUA – Festival Internacional de Tunas da Universidade de Aveiro
+        awards: Melhor Instrumental e Melhor Tuna
+  - year: "2014"
+    img: img/home1.jpg
+    title: ESPETÁCULOS EM 2014
+    tags: shows
+    shows:
+      - show: II Noites de Ronda
+        awards: Melhor Instrumental e Melhor Tuna
+      - show: XIII Oppidana
+        awards: Melhor Estandarte
+      - show: XIII Templário
+        awards: Tuna Mais Público
+      - show: XXIV Festuna
+        awards:
+      - show: VI Cantar de Estudante
+        awards: Melhor Serenata, Melhor Pandeireta, Melhor Instrumental, Tuna do Público e 2ª Melhor Tuna
+  - year: "2014"
+    img: img/cds/cd2.jpg
+    title: LANÇAMENTO DO 2º ÁLBUM
+    tags: cds
+    text: "O terceiro álbum, intitulado “Essência”, foi lançado no ano 2014. É
+  um álbum com um único CD e reúne maioritariamente músicas
+  originais da Tuna. Neste álbum, a ordenação das músicas conta a
+  história do que é ser um tuno da Tuna Universitária do Minho. O CD
+  vem acompanhado por um livro onde constam as letras das músicas
+  e a história que o álbum conta."
+  - year: "2013"
+    img: img/historial/suica_2013.jpg
+    title: DIGRESSÃO À FRANÇA E SUÍÇA
+    tags: tours
+    text: Digressão França e Suíça (Bayonne, Geneva, Berne, Zurique, Aigle, Interlaken, Clermont-ferrand e Lausanne)
+  - year: "2013"
+    img: img/home1.jpg
+    title: ESPETÁCULOS EM 2013
+    tags: shows
+    shows:
+      - show: XX TUIST
+        awards:
+      - show: XVIII Alcatraz
+        awards: Melhor Solista, Tuna Mais Tuna e 2ª Melhor Tuna
+      - show: 9º Citadão
+        awards: Melhor “Passa Calles” e Tuna Mais Tuna
+  - year: "2012"
+    img: img/historial/2012_noites.jpg
+    title: ESPETÁCULOS EM 2012
+    tags: shows
+    shows:
+      - show: I Noites de Ronda
+        awards: Melhor Tuna, Melhor Solista, Melhor Instrumental
+      - show: X FESTUBI – Festival de Tunas da Universidade da Beira Interior
+        awards: Melhor Solista, Melhor Serenata, Tuna do Público
+      - show: XXII FITUA – Festival Internacional de Tunas da Universidade de Aveiro
+        awards: 2ª Melhor Tuna
+      - show: Portus Calle ’12
+        awards:
+      - show: Padrecos 2012
+        awards: Melhor Interpretação Musical, 2ª Melhor Tuna
+  - year: "2011"
+    img: img/home1.jpg
+    title: ESPETÁCULOS EM 2011
+    tags: shows
+    shows:
+      - show: XVII FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique
+        awards: 2ª Melhor Tuna, Melhor Instrumental, Melhor Bandeira
+      - show: II Certamen Internacional de Tunas “Ciudad de Alicante”
+        awards: Melhor Tuna, Melhor Bandeira, Melhor Pandeireta, Melhor “Passa-Calles”
+      - show: XXI FITUA – Festival Internacional de Tunas de Aveiro
+        awards: Tuna Mais Tuna
+      - show: X Festa Ibérica – Festival Internacional de Tunas de Trás-os-Montes e Alto Douro
+        awards: Melhor Tuna
+      - show: XIV FITAFF – Festival Internacional de Tunas Académicas da Figueira da Foz
+        awards: Melhor Instrumental
+      - show: XXV FITU “Cidade do Porto”
+        awards:
+      - show: XVII ETUMa – Encontro de Tunas Universitária da Madeira
+        awards:
+  - year: "2010"
+    img: img/historial/2010_fitu.jpg
+    title: ESPETÁCULOS EM 2010
+    tags: shows
+    shows:
+      - show: XVIII Tágides – Festival Internacional de Tunas Universitárias
+        awards: Melhor Instrumental, Melhor Pandeireta
+      - show: XX FITUA – Festival Internacional de Tunas da Universidade de Aveiro
+        awards: Tuna Mais Tuna
+      - show: Digressão a Barcelona e Ibiza, com presença na viagem ESN IBIZA 2010 organizada pela ESN España (Erasmus Student Network)
+        awards:
+      - show: PADRECOS 2010
+        awards: 2ª Melhor Tuna, Melhor Pandeireta
+      - show: XXIV FITU “Cidade do Porto”
+        awards: Prémio do Público, Melhor Bandeira
+      - show: II Cantar de Estudante – Festival de Tunas da TMUC
+        awards: Tuna Mais Tuna, Melhor Pandeireta
+  - year: "2009"
+    img: img/historial/polonia_2009.jpg
+    title: DIGRESSÃO À POLÓNIA
+    tags: tours
+    text: Digressão à Polónia (Varsóvia, Cracóvia, Lodz) com presença no Encontro de Tunas em Lodz integrado nas festas da Juwenalia
+  - year: "2009"
+    img: img/home1.jpg
+    title: ESPETÁCULOS EM 2009
+    tags: shows
+    shows:
+      - show: II MTB – Música, Tunas e Boémia
+        awards:
+      - show: VIII Oppidana
+        awards:
+      - show: XIX FITUA – Festival Internacional de Tunas de Aveiro
+        awards:
+      - show: VIII Festa Ibérica – Festival Internacional de Tunas de Trás-os-Montes e Alto Douro
+        awards: 3ª Melhor Tuna
+      - show: XXIII FITU “Cidade do Porto”
+        awards: Melhor Instrumental e 2ª Melhor Tuna
+      - show: I Cantar de Estudante – Festival de Tunas de Coimbra
+        awards: Melhor Tuna, Melhor Instrumental, Melhor Pandeireta, Melhor Bandeira, Melhor Serenata
+      - show: Prémio de Evento do Ano nos Galardões “A Nossa Terra” pela organização do XIX FITU Bracara Avgvsta
+        awards:
+  - year: "2008"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 2008
+    tags: shows
+    shows:
+      - show: III Encontro Ibérico de Tunas de Freixo de Espada à Cinta
+        awards: Melhor Instrumental, Melhor Estandarte
+      - show: Padrecos 2008
+        awards: Melhor Solista
+      - show: XV FITISEP
+        awards: Melhor Pandeireta
+      - show: V Festival de Tunas de Vila Verde
+        awards: 2ª Melhor Tuna, Melhor Solista
+  - year: "2007"
+    img: img/historial/2007_coimbra.jpg
+    title: ESPETÁCULOS EM 2007
+    tags: shows
+    shows:
+      - show: VIII El Açor
+        awards: 2ª Melhor Tuna
+      - show: XII TUIST – Festival Internacional de Tunas do I.S.T
+        awards: Melhor Pandeireta, Melhor Bandeira, Tuna Mais Tuna
+      - show: Digressão México
+        awards: Monterrey, Cancún
+      - show: 1º “Encuentro Internacional de Tunas” FACPyA 2007 – Monterrey
+        awards:
+      - show: I FITUM – Festival Internacional de Tunas Universitárias de Monterrey
+        awards: Melhor “Passa-Calles”, Melhor Serenata, Melhor Pandeireta
+      - show: XXI FITU “Cidade do Porto”
+        awards:
+      - show: IV “Cidade do Berço” – Guimarães (Tuna Convidada)
+        awards:
+      - show: XVII FESTUNA
+        awards:
+  - year: "2006"
+    img: img/historial/2006_elacor.jpg
+    title: ESPETÁCULOS EM 2006
+    tags: shows
+    shows:
+      - show: Padrecos 2006 – Festival Internacional de Tunas da Universidade Católica do Porto
+        awards: Tuna Mais Tuna, Melhor Pandeireta
+      - show: V Festa Ibérica – Festival Ibérico de Tunas da Universidade de Trás-os-Montes e Alto Douro
+        awards: Melhor Pandeireta, Grande Prémio Festa Ibérica (Tuna Mais Tuna)
+      - show: III Fernandinho – Festival Internacional de Tunas de Ponte de Lima
+        awards: Melhor Pandeireta, Melhor Tuna
+      - show: XIX Certamen Internacional de Tunas “Costa Cálida” – Múrcia
+        awards: Melhor “Passa-Calles”, Melhor Bandeira, Melhor Desempenho Musical
+      - show: Digressão Irlanda (Dublin, Belfast, Dungannon)
+        awards:
+      - show: XX FITU “Cidade do Porto”
+        awards: Melhor Bandeira, Melhor Interpretação Musical, 2ª Melhor Tuna
+      - show: IV FITU “Terras de Cante”
+        awards: Melhor “Passa-Calles”
+      - show: XVI FESTUNA
+        awards: Tuna Simpatia
+      - show: Prémio de Melhor Associação Recreativa nos Galardões “A Nossa Terra”
+        awards:
+  - year: "2005"
+    img: img/historial/alicante_2005.jpg
+    title: ESPETÁCULOS EM 2005
+    tags: shows
+    shows:
+      - show: Digressão a Oviedo
+        awards:
+      - show: II Fernandinho – Festival de Tunas de Ponte de Lima Melhor Passa-Calles
+        awards: 2ª Melhor Tuna
+      - show: XV FITUA – Festival Internacional de Tunas de Aveiro
+        awards:
+      - show: II Certamen de Tunas de Lugo
+        awards: Melhor Pandeireta, Melhor Bandeira, Melhor Instrumental
+      - show: Festival de Tunas de Amares
+        awards: Melhor Instrumental
+      - show: Digressão ao Algarve
+        awards:
+      - show: XV FESTUNA
+        awards: Melhor Pandeireta
+  - year: "2004"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 2004
+    tags: shows
+    shows:
+      - show: Padrecos 2004 – Festival Internacional de Tunas da Universidade Católica do Porto
+        awards: 3ª melhor Tuna, Melhor Solista, Melhor Porta-Estandarte, Tuna Mais Tuna
+      - show: XIV Festuna – Festival Internacional de Tunas de Coimbra
+        awards: Melhor Solista, Melhor Porta-Estandarte
+      - show: IV LETHES – Festival Internacional de Tunas de Viana do Castelo
+        awards: Melhor Solista
+  - year: "2003"
+    img: img/historial/cuba_2003.jpg
+    title: DIGRESSÃO A CUBA
+    tags: tours
+    text: Digressão a Cuba (Havana, Varadero, Trinidad, Cienfuegos, Holguin, Sta. Clara)
+  - year: "2003"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 2003
+    tags: shows
+    shows:
+      - show: XI FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique
+        awards: 3ª Melhor Tuna
+      - show: III LETHES – Festival Internacional de Tunas de Viana do Castelo
+        awards: Melhor Solista, 3ª Melhor Tuna, Tuna mais Tuna
+      - show: XII Certamen de Tunas “Ciudad de Léon”
+        awards: Melhor Solista, Melhor Pandeireta, Melhor Bandeira e Melhor Tuna
+      - show: I FITU “Terras de Cante”
+        awards: Melhor Instrumental
+      - show: V Festival Luz&Tuna
+        awards: Melhor Tuna, Melhor Pandeireta, Melhor Bandeira
+  - year: "2002"
+    img: img/historial/2002_serenatas.jpg
+    title: ESPETÁCULOS EM 2002
+    tags: shows
+    shows:
+      - show: X FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique
+        awards: 3ª Melhor Tuna, Melhor Solista e Melhor Interpretação Instrumental
+      - show: IX TUIST – Festival Internacional de Tunas do Instituto Superior Técnico
+        awards: Melhor Solista e Melhor Porta-Estandarte
+      - show: II LETHES – Festival Internacional de Tunas de Viana do Castelo
+        awards: 2ª Melhor Tuna, Melhor Solista, Melhor Tema Instrumental e Melhor Tema Original
+      - show: XII FITUA – Festival Internacional de Tunas de Aveiro
+        awards:
+      - show: III OLISIPO
+        awards: Melhor Solista
+      - show: XII FESTUNA – Festival Internacional de Tunas de Coimbra
+        awards: Melhor Tuna, Melhor Solista, Melhor Porta-Estandarte, Tuna mais Simpática
+  - year: "2001"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 2001
+    tags: shows
+    shows:
+      - show: IX FITUP – Festival Internacional de Tunas da Universidade Portucalense – Infante D. Henrique
+        awards: Melhor Tuna e Melhor Solista
+      - show: VIII TUIST – Festival Internacional de Tunas do Instituto Superior Técnico
+        awards: Melhor Tuna e Melhor Solista
+      - show: Certamen Internacional de Tunas “Barrio del Carmen”
+        awards: Melhor Pandeireta
+      - show: Digressão à Madeira (Espectáculo para o Presidente da Região Autónoma da Madeira)
+        awards:
+      - show: XV FITU “Cidade do Porto”
+        awards: Melhor Tuna
+      - show: XI FESTUNA
+        awards: 2ª Melhor Tuna, Melhor Instrumental, Melhor Solista e Melhor Porta Estandarte
+  - year: "2000"
+    img: img/historial/brasil_2000.jpg
+    title: DIGRESSÃO AO BRASIL
+    text: Digressão ao Brasil (Fortaleza, Recife, João Pessoa e Rio de Janeiro)
+    tags: tours
+  - year: "2000"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 2000
+    tags: shows
+    shows:
+      - show: V INVICTA – Festival de Tunas da Universidade Fernando Pessoa
+        awards: 3ª melhor Tuna
+      - show: II Cidade Berço – Festival Internacional de Tunas Universitárias (Tuna Convidada)
+        awards:
+      - show: XIV FITU Cidade do Porto
+        awards: Melhor Bandeira e Melhor Solista
+  - year: "2000"
+    img: img/home2.jpg
+    title: DIGRESSÃO AO BRASIL
+    tags: tours
+    text: Digressão ao Brasil (Fortaleza, Recife, João Pessoa e Rio de Janeiro)
+  - year: "2000"
+    img: img/cds/cd1.jpg
+    title: LANÇAMENTO DO 1º ÁLBUM
+    tags: cds
+    text: "O primeiro álbum, intitulado “Tuna Universitária do Minho”, foi
+  lançado no ano 2000. É um álbum com 2 CDs que reúne uma
+  coletânea das melhores músicas da Tuna Universitária do Minho.
+  Parte dos temas bem como algumas gravações ao vivo foram mais tarde
+  reunidos num só álbum, editado em 2009."
+  - year: "1999"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 1999
+    tags: shows
+    shows:
+      - show: IV INVICTA – Festival de Tunas Académicas da Universidade Fernando Pessoa
+        awards: 2ª Melhor Tuna, Melhor Solista, Melhor Bandeira e Melhor Pandeireta
+      - show: VI TUIST – Festival Internacional de Tunas do I.S.T
+        awards: 3ª Melhor Tuna, Melhor Solista e Melhor Porta Estandarte
+      - show: XIII FITU Cidade do Porto
+        awards: Melhor Solista
+      - show: VII Certamen Internacional de Tunas “Ciudad de Almeria”
+        awards: Melhor Tuna, Melhor Bandeira e Melhor “Passa Calles”
+  - year: "1998"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 1998
+    tags: shows
+    shows:
+      - show: III INVICTA – Festival de Tunas Académicas da Universidade Fernando Pessoa
+        awards: Melhor Tuna, Melhor Solista e Tuna Mais Tuna
+      - show: IX FITUA – Festival Internacional de Tunas Universitária de Aveiro
+        awards: Melhor Solista
+      - show: XII FITU Cidade do Porto
+        awards: 2ª Melhor Tuna e Melhor Solista
+  - year: "1997"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 1997
+    tags: shows
+    shows:
+      - show: V TUIST – Festival Internacional de Tunas do I.S.T
+        awards: Melhor Tuna e Melhor Solista
+      - show: Tágides ’97
+        awards: 3ª Melhor Tuna
+      - show: II Invicta
+        awards: 2ª Melhor Tuna e Melhor Solista
+      - show: III Certamen Internacional de Tunas Ciudad de La Alhambra – Granada
+        awards: Melhor Tuna, Melhor Bandeira, Melhor Solista e Melhor Pandeireta
+      - show: XI FITU Cidade do Porto
+        awards: 2ª Melhor Tuna e Melhor Solista
+      - show: Encontro Nacional de Tunas de Lugo (Galiza)
+        awards:
+      - show: V Certamen Internacional de Tunas “Ciudad de Almeria”
+        awards: Melhor Tuna, Melhor Bandeira, Melhor Solista, Melhor Pandeireta e Melhor “Passa Calles”
+  - year: "1996"
+    img: img/home1.jpg
+    title: ESPETÁCULOS EM 1996
+    tags: shows
+    shows:
+      - show: IV TUIST – Festival Internacional de Tunas do I.S.T
+        awards:
+      - show: I Invicta
+        awards: 3ª Melhor Tuna e Melhor Pandeireta
+      - show: I INVICTA – Festival de Tunas Académicas da Universidade Fernando Pessoa
+        awards: 3ª Melhor Tuna e Melhor Pandeireta
+      - show: Tágides ’96
+        awards: 3ª Melhor Tuna
+      - show: VII FITUA – Festival Internacional de Tunas Universitárias de Aveiro
+        awards: Melhor Solista
+      - show: FESTUNA III – Festival de Tunas de Ponte de Lima
+        awards: Melhor Tuna, Melhor Bandeira, 2ª Melhor Pandeireta e Melhor Solista
+      - show: IX Encontro Internacional de Tunas – Cidade de Arequipa (Peru)
+        awards:
+      - show: I Encontro Ibero-Americano de Tunas – Cidade de Lima (Peru)
+        awards:
+      - show: X FITU “Cidade do Porto”
+        awards: Melhor Solista
+      - show: VI FESTUNA-Coimbra
+        awards: Melhor Bandeira
+  - year: "1995"
+    img: img/historial/1995_retiro.jpg
+    title: ESPETÁCULOS EM 1995
+    tags: shows
+    shows:
+      - show: II Festival Ibérico de Tunas do ISEP
+        awards: Melhor Solista
+      - show: III Festival de Tunas do Instituto Superior Técnico
+        awards: 3ª Melhor Tuna
+      - show: Tágides ‘95
+        awards:
+      - show: VIII Certame Internacional de Tunas “Costa Cálida” (Múrcia)
+        awards:
+      - show: Tuna Finalista no Programa Eferreá (R.T.P.)
+        awards:
+      - show: IV Festival de Tunas da Universidade Lusíada-Porto
+        awards: Tuna Mais Tuna e Melhor Solista
+      - show: IX FITU Cidade do Porto
+        awards: 2ª Melhor Tuna e Melhor Solista
+      - show: I Festival de Tunas do Liceu do Liceu Nacional de Évora
+        awards: Melhor Bandeira
+  - year: "1994"
+    img: img/historial/porto_rico_1994.jpg
+    title: DIGRESSÃO A PORTO RICO
+    tags: tours
+    text: Digressão a Porto Rico.
+  - year: "1994"
+    img: img/historial/venezuela_1994.jpg
+    title: DIGRESSÃO À VENEZUELA
+    tags: tours
+    text: Digressão à Venezuela.
+  - year: "1994"
+    img: img/hometum1.jpg
+    title: ESPETÁCULOS EM 1994
+    tags: shows
+    shows:
+      - show: I Festival Ibérico de Tunas do ISEP
+        awards: Melhor Tuna e Melhor Solista
+      - show: I Festival Camiliano de Tunas Universitárias
+        awards: Tuna Mais Tuna
+      - show: II Festival Internacional de Tunas do IST
+        awards: Melhor Solista
+      - show: V FITUA de Aveiro
+        awards: Melhor Solista, Melhor interpretação musical
+      - show: Tágides 94
+        awards: 2ª Melhor Tuna e Melhor Solista
+      - show: Festival Internacional de Tunas do Caribe ‘94 (Porto Rico)
+        awards: Melhor Pandeireta
+      - show: VIII FITU Cidade do Porto
+        awards: Melhor Solista e Melhor pandeireta
+      - show: II Certame Internacional de Tunas “Ciudad de Badajoz”
+        awards: Melhor Tuna, Melhor Solista e Melhor pandeireta
+      - show: VI Certame Internacional de Tunas “Sete Colinas”
+        awards: 3ª Melhor Tuna
+  - year: "1993"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 1993
+    tags: shows
+    shows:
+      - show: Espectáculos em Antuérpia, Bruges e Gent (Bélgica)
+        awards:
+      - show: IV FITUA de AVEIRO
+        awards: Melhor Tuna
+      - show: Festival de Cultura Europeia – ECU 93 (Nimejen, Holanda)
+        awards:
+      - show: VII FITU Cidade do Porto
+        awards: Melhor Solista
+      - show: V Certame Internacional de Tunas de Lisboa – Sete Colinas
+        awards: 3ª Melhor Tuna e Melhor Solista
+  - year: "1992"
+    img: img/home1.jpg
+    title: ESPETÁCULOS EM 1992
+    tags: shows
+    shows:
+      - show: FITA do Porto
+        awards: Melhor Solista
+      - show: Juventunas Funchal ‘92
+        awards:
+      - show: Encontro de Tunas Ilha de São Miguel – Açores
+        awards:
+      - show: I Festival Internacional de Tunas Cidade de Oviedo
+        awards: 3ª Melhor Tuna
+      - show: VI FITU Cidade do Porto
+        awards: Melhor Bandeira e Melhor Solista
+      - show: IV Certame Internacional de Tunas de Lisboa – Sete Colinas
+        awards: 3ª Melhor Tuna e Melhor Bandeira
+  - year: "1991"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 1991
+    tags: shows
+    shows:
+      - show: FITA do Porto
+        awards: 2ª Melhor Tuna e Melhor Bandeira
+      - show: Queima das Fitas de Coimbra
+        awards:
+      - show: 4º Festival Internacional de Tunas de Santiago de Compostela
+        awards:
+      - show: Salão do Estudante de Paris
+        awards:
+      - show: I Festival de Tunas da Cidade de Medina
+        awards:
+      - show: Festival de Tunas do ISLA
+        awards: Tuna Mais Simpática e Melhor Solista
+      - show: V FITU Cidade do Porto
+        awards: Menção Honrosa
+      - show: III Certame Internacional de Tunas de Lisboa – Sete Colinas
+        awards:
+  - year: "1990"
+    img: img/historial/urss_1990.jpg
+    title: DIGRESSÃO EUROPEIA
+    tags: tours
+    text: "Países Visitados: Hamburgo, Copenhaga, Estocolmo, Helsínquia, Leninegrado, Varsóvia, Berlim, Praga, Estrasburgo"
+  - year: "1990"
+    img: img/home2.jpg
+    title: ESPETÁCULOS EM 1990
+    tags: shows
+    shows:
+      - show: IV FITU Cidade do Porto
+        awards: Tuna Mais Simpática
+      - show: II Certame Internacional de Tunas de Lisboa – Sete Colinas.
+        awards:
+  - year: "1990"
+    img: img/home1.jpg
+    text: "A estreia oficial da Tuna Universitária do Minho ocorreu a 10 de Maio de 1990 nas festas do Enterro
+  da Gata. O palco estava montado numa tenda de circo e o recinto
+  estava absolutamente cheio. Estima-se que cerca de 1000
+  estudantes assistiram ao primeiro espetáculo."
