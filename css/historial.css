@@ -1,0 +1,29 @@
+.hist-img {
+    /* max-height: 33vh; */
+    width: 100%;
+}
+
+.hist-row {
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.hist-text {
+    text-align: justify;
+}
+
+.hist-row:nth-child(odd) .hist-img-col {
+    order: 1;
+}
+
+.hist-row:nth-child(odd) .hist-text-col {
+    order: 2;
+}
+
+.hist-row:nth-child(odd) .hist-img {
+    float: left;
+}
+
+.hist-row:nth-child(even) .hist-img {
+    float: right;
+}

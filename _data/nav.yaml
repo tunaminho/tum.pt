@@ -1,8 +1,10 @@
 title: Tuna Universitária do Minho
 logo: img/logo.jpg
 links:
-  - title: Tuna
+  - title: Sobre nós
     sublinks:
+      - title: Historial
+        url: historial
       - title: Traje e Simbologia
         url: traje_simbologia
       - title: Historial e Prémios

@@ -1,0 +1,28 @@
+---
+layout: default
+title: Historial
+---
+<link href="{{ site.baseurl }}/css/historial.css" rel="stylesheet">
+
+<div class="content">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2>{{ site.data.historial.title }}</h2>
+        </div>
+    </div>
+
+    <div class="txt-list">
+        {% for txt in site.data.historial.parags %}
+        <div class="row hist-row">
+            <div class="col-lg-8 hist-text-col">
+                <div class="hist-text">
+                    {{ txt.text | markdownify }}
+                </div>
+            </div>
+            <div class="col-sm-4 hist-img-col">
+                <img class="hist-img" src="{{ site.baseurl }}/{{ txt.img }}">
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
