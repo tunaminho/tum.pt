@@ -3,42 +3,68 @@ layout: default
 title: Elementos
 ---
 <link href="{{ site.baseurl }}/css/members.css" rel="stylesheet">
+<script src="{{ site.baseurl }}/js/modal.js"></script>
 
 <div class="content">
     <h2>Elementos da Tuna Universitária do Minho</h2>
     <div class="mt-5" id="accordion">
         {% for ger in site.data.elementos.geracoes %}
+
         <div class="card mb-3">
-            <div class="card-header">
-                <a class="card-link collapsed" data-toggle="collapse" href="#collapse{{ger.id}}">
-                    <b>{{ ger.nome }}</b>
-                </a>
-            </div>
+            <a class="card-link collapsed" data-toggle="collapse" href="#collapse{{ger.id}}">
+                <div class="card-header">
+                        <b>{{ ger.nome }}</b>
+                </div>
+            </a>
             <div class="collapse" data-parent="#accordion" id="collapse{{ger.id}}">
                 <div class="card-body">
                     {% for m in ger.elementos %}
-                    <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="img/elementos/{{ m.foto }}">
+                    <div class="team-member" id="member-card-{{ger.id}}-{{forloop.index0}}">
+                        <img class="mx-auto rounded-circle" src="{{ site.baseurl }}/img/elementos/{{ m.foto }}">
                         <br>
-                        {% assign nomes = m.nome | split: " " %}
-                        <span class="member-text">{{ nomes | slice: 0}} "{{m.alcunha}}" {{ nomes | slice: -1}}</span>
-                        <br>
-                        <span class="member-text member-details">
-                                {% if m.instrumento == "" or m.instrumento == null %}
-                                &nbsp;
-                                {% else %}
-                                {{ m.instrumento }}
-                                {% endif %}
-                            </span>
-                        <br>
-                        <span class="member-text member-details">
-                                {% if m.curso == "" or m.curso == null %}
-                                &nbsp;
-                                {% else %}
-                                {{ m.curso }}
-                                {% endif %}
-                            </span>
+                        <p class="member-text">{{m.alcunha}}</p>
                     </div>
+
+                    <div class="member-modal" id="member-modal-{{ger.id}}-{{forloop.index0}}">
+                        <div class="member-modal-content">
+                            <div class="member-modal-header">
+                                <span class="member-title">{{m.alcunha}}</span>
+                                <span class="member-modal-close" id="member-modal-close-{{ger.id}}-{{forloop.index0}}">&times;</span>
+                            </div>
+                            <div class="member-modal-body">
+                                <img class="member-image rounded-circle" src="{{ site.baseurl }}/img/elementos/{{ m.foto }}">
+                                <table class="member-table">
+                                    <tbody class="member-table-body">
+
+                                    {% if m.nome %}
+                                    <tr class="member-row">
+                                        <td class="member-col-name">Nome</td>
+                                        <td class="member-col-empty"></td>
+                                        <td class="member-col-val">{{ m.nome }}</td>
+                                    </tr>
+                                    {% endif %}
+
+                                    {% if m.curso %}
+                                    <tr class="member-row">
+                                        <td class="member-col-name">Curso</td>
+                                        <td class="member-col-empty"></td>
+                                        <td class="member-col-val">{{ m.curso }}</td>
+                                    </tr>
+                                    {% endif %}
+
+                                    {% if m.instrumento %}
+                                    <tr class="member-row">
+                                        <td class="member-col-name">Instrumento</td>
+                                        <td class="member-col-empty"></td>
+                                        <td class="member-col-val">{{ m.instrumento }}</td>
+                                    </tr>
+                                    {% endif %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <script> modalJsMembers("{{ger.id}}-{{forloop.index0}}"); </script>
                     {% endfor %}
                 </div>
             </div>

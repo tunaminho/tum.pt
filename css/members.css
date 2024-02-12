@@ -3,29 +3,26 @@
     text-align: center;
     display: inline-block;
     padding: 2.5%;
-    width: 220px;
+    color: black;
+    transition-duration: 0.2s;
+    white-space: nowrap;
+}
+
+.team-member:hover {
+    color: var(--main-red);
 }
 
 .team-member img {
-    width: 75px;
-    height: 75px;
+    width: 100px;
+    height: 100px;
     object-fit: cover;
     box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
 }
 
-.member-text:before {
-    content: "";
-    margin-left: -100%;
-}
-
-.member-text:after {
-    content: "";
-    margin-right: -100%;
-}
-
 .member-text {
-    white-space: nowrap;
-    font-size: 1.75vh;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: initial;
 }
 
 .member-details {
@@ -54,4 +51,116 @@
 
 .card-body {
     text-align: center;
+}
+
+.member-table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2vh;
+}
+
+.member-table-body {
+    width: 100%;
+}
+
+.member-row {
+    flex-wrap: wrap;
+    padding-bottom: 2vh;
+    padding-top: 2vh;
+    width: 100%;
+}
+
+.member-col-name {
+    text-align: justify;
+    width: 20%;
+}
+
+.member-col-empty {
+    width: 5%;
+}
+
+.member-col-val {
+    text-align: start;
+    width: 75%;
+}
+
+.member-modal {
+    display: none;
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+@keyframes member-modal-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.member-modal-content {
+    background-color: var(--white-p95);
+    margin: auto;
+    margin-top: 25vh;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    animation-name: member-modal-in;
+    animation-duration: 0.4s;
+}
+
+.member-modal-header {
+    padding: 2vh;
+    background-color: var(--main-red);
+    color: white;
+    position: relative;
+}
+
+.member-modal-header .member-title {
+    right: 5vh;
+}
+
+.member-modal-close {
+    position: absolute;
+    top: 0;
+    right: 1vh;
+    color: white;
+    font-weight: bold;
+    font-size: 5vh;
+    float: right;
+    vertical-align: top;
+}
+
+.member-modal-close:hover,
+.member-modal-close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.member-modal-body {
+    padding: 2vh;
+    overflow: auto;
+}
+
+.member-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+}
+
+.member-link {
+    color: black;
+    transition-duration: 0.2s;
+}
+
+.member-link:hover {
+    color: var(--main-red);
 }

@@ -830,3 +830,57 @@ geracoes:
         foto: calcetas.png
         curso: Engenharia Informática
         instrumento: Percussão, Trompete
+  - nome: 31ª Geração - 2021
+    id: 31
+    elementos:
+      - alcunha: Bufas
+        nome: Tiago Rodrigues
+        curso: Engenharia Informática
+        instrumento: Guitarra, Contrabaixo
+        foto: bufas.png
+  - nome: 32ª Geração - 2022
+    id: 32
+    elementos:
+      - alcunha: Chimpz
+        nome: Francisco Franco
+        curso: Engenharia Informática
+        instrumento: Pandeireta
+        foto: chimpz.png
+      - alcunha: Zénis
+        nome: Jaime Abreu
+        curso: Engenharia Informática
+        instrumento: Acordeão
+        foto: zenis.png
+      - alcunha: Binotto
+        nome: Afonso Silva
+        curso: Relações Internacionais
+        instrumento: Estandarte
+        foto: binotto.png
+      - alcunha: Sansão
+        nome: João Aguiar Silva
+        curso: Psicologia
+        instrumento: Violino
+        foto: sansao.png
+      - alcunha: Tony Batatinha
+        nome: João Santos
+        curso: Engenharia Informática
+        instrumento: Bandolim
+        foto: batatinha.png
+  - nome: 33ª Geração - 2023
+    id: 33
+    elementos:
+      - alcunha: Farruko
+        nome: João Lourenço
+        curso: Engenharia Informática
+        instrumento: Trompete, Estandarte
+        foto: farruko.png
+      - alcunha: Arredas
+        nome: Simão Cruz
+        curso: Física
+        instrumento: Percussão
+        foto: arredas.png
+      - alcunha: Atrasado
+        nome: Rafael Gonçalves
+        curso: Engenharia Biomédica
+        instrumento: Guitarra
+        foto: atrasado.png
