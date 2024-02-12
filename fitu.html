@@ -13,7 +13,7 @@ title: FITU Bracara Avgvsta
         <div class="fitu-row">
             {% for fitu in site.data.fitu.fitus limit: 4 offset: continue %}
             <div class="fitu-column">
-                <img id="fitu-img-{{i}}" src="img/{{ fitu.img }}">
+                <img id="fitu-img-{{i}}" src="{{ site.baseurl }}/img/{{ fitu.img }}">
                 <div class="fitu-modal" id="fitu-modal-{{i}}">
                     <div class="fitu-modal-content">
                         <div class="fitu-modal-header">

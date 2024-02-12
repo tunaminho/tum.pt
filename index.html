@@ -15,7 +15,7 @@ title: Tuna Universitária do Minho
         {% for square in site.data.landing.grid %}
         <div class="square">
             {% if square.img %}
-            <img src="{{ square.img }}" style="{{ square.style }}"/>
+            <img src="{{ site.baseurl }}/{{ square.img }}" style="{{ square.style }}"/>
             {% endif %}
 
             {% if square.text %}

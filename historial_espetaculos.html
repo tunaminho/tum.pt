@@ -16,7 +16,7 @@ title: Historial e Espetáculos
     </div>
     <div class="timeline">
         {% for event in site.data.historial_espetaculos.events%}
-        <div class="timeline-item {{event.tags}}" data-text="{{event.title}}">
+        <div class="timeline-item {{event.tags}}" data-text="{{ site.baseurl }}/{{event.title}}">
             <div class="timeline__content">
                 <img class="timeline__img" src="{{event.img}}"/>
                 <h2 class="timeline__content-title">{{event.year}}</h2>

@@ -12,17 +12,17 @@ link_columns:
         - name: YouTube
           icon: fa-youtube
           url: https://www.youtube.com/channel/UClj56MMgzqLuCQSa4Ege6nQ
-        - name: Discord
-          icon: fa-discord
-          url: http://discord.tum.pt/
+        # - name: Discord
+        #   icon: fa-discord
+        #   url: http://discord.tum.pt/
         - name: Spotify
           icon: fa-spotify
           url: https://open.spotify.com/artist/7nEqs0isAyEONxQbPrVRgb
     links:
       - name: FITU Bracara Avgvsta
-        url: https://fitu.pt
+        url: https://www.fitu.pt
       - name: ARCUM
-        url: http://www.arcum.pt
+        url: https://www.arcum.pt
   - title: Academia
     links:
       - name: Associação Académica da Universidade do Minho
