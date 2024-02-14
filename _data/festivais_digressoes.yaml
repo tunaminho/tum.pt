@@ -227,8 +227,11 @@ events:
         awards: Melhor Instrumental e 2ª Melhor Tuna
       - show: I Cantar de Estudante – Festival de Tunas de Coimbra
         awards: Melhor Tuna, Melhor Instrumental, Melhor Pandeireta, Melhor Bandeira, Melhor Serenata
-      - show: Prémio de Evento do Ano nos Galardões “A Nossa Terra” pela organização do XIX FITU Bracara Avgvsta
-        awards:
+  - year: "2009"
+    img: img/historial/a_nossa_terra.png
+    title: "Galardões 'A Nossa Terra'"
+    text: Prémio de Evento do Ano pela organização do XIX FITU Bracara Avgvsta
+    tags: others
   - year: "2008"
     img: img/historial/2008_freixo_espada_cinta.jpg
     title: FESTIVAIS EM 2008
@@ -285,8 +288,11 @@ events:
         awards: Melhor “Passa-Calles”
       - show: XVI FESTUNA
         awards: Tuna Simpatia
-      - show: Prémio de Melhor Associação Recreativa nos Galardões “A Nossa Terra”
-        awards:
+  - year: "2006"
+    img: img/historial/a_nossa_terra.png
+    title: Galardões 'A Nossa Terra'
+    text: Prémio de Melhor Associação Recreativa
+    tags: others
   - year: "2006"
     img: img/historial/placeholder.jpg
     title: DIGRESSÃO À IRLANDA
