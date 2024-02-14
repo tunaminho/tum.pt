@@ -1,39 +1,70 @@
 grid:
   # Square 1
-  - img: img/landing/casamento.jpg
+  - id: 1
+    img: img/landing/casamento.jpg
     hover_text: Casamentos
     text_style: "text-align: left;"
   # Square 2
-  - img: img/landing/serenata.jpg
+  - id: 2
+    img: img/landing/serenata.jpg
     hover_text: Serenatas
     text_style: "text-align: center;"
   # Square 3
-  - text: Animamos todo o tipo de eventos com momentos de muita música e boa disposição!
+  - id: 3
+    text: Animamos todo o tipo de eventos, com muita música e boa disposição!
     text_style: "text-align: right;"
   # Square 4
-  - img: img/traje/tuno.png
-    hover_text: Traje e Simbologia
-    hover_url: /traje_simbologia
+  - id: 4
+    img: img/landing/festa2.jpg
+    hover_text: Festas e Arraiais
     text_style: "text-align: left;"
   # Square 5
-  - img: img/landing/festa.jpg
-    hover_text: Festas e Arraiais
+  - id: 5
+    img: img/landing/advogados.jpg
+    hover_text: Congressos e Outros Eventos
     text_style: "text-align: center;"
   # Square 6
-  - img: img/landing/advogados.jpg
-    hover_text: Congressos e Outros Eventos
+  - id: 6
+    img: img/landing/boas_vindas.jpg
+    hover_text: Eventos Académicos
     text_style: "text-align: right;"
   # Square 7
-  - img: img/landing/festa2.jpg
-    hover_text: Festas e Arraiais
+  - id: 7
+    text: Descobre mais sobre a essência da TUM e a nossa atividade!
     text_style: "text-align: left;"
   # Square 8
-  - img: img/landing/boas_vindas.jpg
-    hover_text: Eventos Académicos
+  - id: 8
+    img: img/landing/estreia_tum.jpg
+    hover_text: Historial
+    hover_url: /historial
     text_style: "text-align: center;"
   # Square 9
-  - img: img/traje/caloiro.png
+  - id: 9
+    img: img/landing/tuno.png
     hover_text: Traje e Simbologia
     hover_url: /traje_simbologia
     text_style: "text-align: right;"
-    style: "transform: scaleX(-1);"
+  # Square 10
+  - id: 10
+    img: img/landing/cd2.jpg
+    hover_text: Discografia
+    hover_url: /discografia
+    text_style: "text-align: left;"
+  # Square 11
+  - id: 11
+    img: img/landing/tum_fitu.jpg
+    hover_text: Festivais e Digressões
+    hover_url: /festivais_digressoes
+    text_style: "text-align: center;"
+  # Square 12
+  - id: 12
+    img: img/landing/chile_2018.jpg
+    hover_text: Elementos
+    hover_url: /elementos
+    text_style: "text-align: right;"
+  # Square 13
+  - id: 13
+    img: img/landing/2010_fitu.jpg
+    hover_text: FITU Bracara Avgvsta
+    hover_url: /fitu
+    text_style: "text-align: left;"
