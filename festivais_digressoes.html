@@ -1,0 +1,46 @@
+---
+layout: default
+title: Festivais e Digressões
+---
+<link href="{{ site.baseurl }}/css/timeline.css" rel="stylesheet">
+
+<div class="timeline-container" id="timeline-1">
+    <div class="timeline-header">
+        <h2 class="timeline-header__title">{{site.data.festivais_digressoes.title}}</h2>
+        <div id="filter-btn-container">
+            <button class="btn active timeline-header__subtitle" onclick="filterSelection('all')">TUDO</button>
+            <button class="btn timeline-header__subtitle" onclick="filterSelection('festivals')">FESTIVAIS</button>
+            <button class="btn timeline-header__subtitle" onclick="filterSelection('tours')">DIGRESSÕES</button>
+        </div>
+    </div>
+    <div class="timeline">
+        {% for event in site.data.festivais_digressoes.events%}
+        <div class="timeline-item {{event.tags}}" data-text="{{event.title}}">
+            <div class="timeline__content">
+                <img class="timeline__img" src="{{ site.baseurl }}/{{event.img}}"/>
+                <h2 class="timeline__content-title">{{event.year}}</h2>
+                {% if event.text %}
+                <p class="timeline__content-desc">
+                    {{event.text}}
+                </p>
+                {% endif %}
+                {% if event.shows %}
+                <table class="timeline-content-table">
+                    <tbody>
+                    {% for f in event.shows %}
+                    <tr class="timeline-content-row">
+                        <td class="timeline-content-cell timeline__content-desc"><b>{{f.show}}</b></td>
+                        <td class="timeline-content-cell timeline__content-desc">{{f.awards}}</td>
+                    </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+
+<script src="{{ site.baseurl }}/js/timeline.js"></script>
